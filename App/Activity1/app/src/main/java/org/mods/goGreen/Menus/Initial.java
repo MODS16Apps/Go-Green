@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
+import org.mods.goGreen.Constants.Constants;
 import org.mods.goGreen.R;
 
 import java.lang.String;
@@ -43,17 +44,23 @@ public class Initial extends Activity implements View.OnClickListener{
         getInfo();
         switch (view.getId()) {
             case R.id.nameEntry:
-                if (userNameGet.getText().toString().equals("Name"))
+                if (userNameGet.getText().toString().equals("Name")) {
                     userNameGet.setText("");
+                    userNameGet.setTextColor(Constants.black);
+                }
                 if(userBirthGet.getText().toString().equals("")){
                     userBirthGet.setText("Birthday (mm/dd/yyyy)");
+                    userBirthGet.setTextColor(Constants.grey);
                 }
                 break;
             case R.id.dateEntry:
-                if(userBirthGet.getText().toString().equals("Birthday (mm/dd/yyyy)"))
+                if(userBirthGet.getText().toString().equals("Birthday (mm/dd/yyyy)")){
                     userBirthGet.setText("");
+                    userBirthGet.setTextColor(Constants.black);
+                }
                 if(userNameGet.getText().toString().equals("")){
                     userNameGet.setText("Name");
+                    userNameGet.setTextColor(Constants.grey);
                 }
                 break;
             case R.id.enter_button:

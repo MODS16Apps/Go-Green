@@ -87,20 +87,21 @@ containing a value of this type.
         public static final int imageAspectRatioAdjust=0x7f010000;
     }
     public static final class color {
-        public static final int Invisible=0x7f070000;
-        public static final int background=0x7f070001;
-        public static final int common_action_bar_splitter=0x7f070002;
-        public static final int common_signin_btn_dark_text_default=0x7f070003;
-        public static final int common_signin_btn_dark_text_disabled=0x7f070004;
-        public static final int common_signin_btn_dark_text_focused=0x7f070005;
-        public static final int common_signin_btn_dark_text_pressed=0x7f070006;
-        public static final int common_signin_btn_default_background=0x7f070007;
-        public static final int common_signin_btn_light_text_default=0x7f070008;
-        public static final int common_signin_btn_light_text_disabled=0x7f070009;
-        public static final int common_signin_btn_light_text_focused=0x7f07000a;
-        public static final int common_signin_btn_light_text_pressed=0x7f07000b;
-        public static final int common_signin_btn_text_dark=0x7f07000c;
-        public static final int common_signin_btn_text_light=0x7f07000d;
+        public static final int FillIns=0x7f070000;
+        public static final int Invisible=0x7f070001;
+        public static final int background=0x7f070002;
+        public static final int common_action_bar_splitter=0x7f070003;
+        public static final int common_signin_btn_dark_text_default=0x7f070004;
+        public static final int common_signin_btn_dark_text_disabled=0x7f070005;
+        public static final int common_signin_btn_dark_text_focused=0x7f070006;
+        public static final int common_signin_btn_dark_text_pressed=0x7f070007;
+        public static final int common_signin_btn_default_background=0x7f070008;
+        public static final int common_signin_btn_light_text_default=0x7f070009;
+        public static final int common_signin_btn_light_text_disabled=0x7f07000a;
+        public static final int common_signin_btn_light_text_focused=0x7f07000b;
+        public static final int common_signin_btn_light_text_pressed=0x7f07000c;
+        public static final int common_signin_btn_text_dark=0x7f07000d;
+        public static final int common_signin_btn_text_light=0x7f07000e;
     }
     public static final class drawable {
         public static final int bathroom=0x7f020000;

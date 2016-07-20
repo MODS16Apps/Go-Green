@@ -134,7 +134,7 @@
          <item>"Plastic bottles take 450 years to decompose! Make sure to throw them in your recyling bin or send them back to the manufacturer for a 5¢ reward! "</item> 
     </array><array name="toilet">
         <item>"The average persons use 2.8 miles of toilet paper in a year"</item>
-    </array></file><file path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/colors.xml" qualifiers=""><color name="background">#000000</color><color name="Invisible">#00ffffff</color></file><file path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml" qualifiers=""><string name="easy_label">Easy</string><string name="about_text">\
+    </array></file><file path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/colors.xml" qualifiers=""><color name="FillIns">#cb999999</color><color name="background">#000000</color><color name="Invisible">#00ffffff</color></file><file path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml" qualifiers=""><string name="easy_label">Easy</string><string name="about_text">\
 <b>Go Green is an...</b>
 </string><string name="info_label">Information</string><string name="Trip">TRIP the Robot</string><string name="test">What do you want a map of?</string><string name="settings_shortcut">s</string><string name="trip_lyrics">Whatcha gonna do\n
 R-E-C-Y-C-L-E\n\n

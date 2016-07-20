@@ -10,4 +10,5 @@
 <resources>
    <color name="background">#000000</color>
    <color name="Invisible">#00ffffff</color>
+   <color name="FillIns">#cb999999</color>
 </resources>

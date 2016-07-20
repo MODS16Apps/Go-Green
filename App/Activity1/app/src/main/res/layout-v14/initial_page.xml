@@ -14,7 +14,8 @@
         android:textSize="40dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="255dp" />
+        android:layout_marginTop="255dp"
+        android:textColor="@color/FillIns" />
 
     <Space
         android:layout_width="200px"
@@ -43,6 +44,7 @@
         android:layout_alignLeft="@+id/nameEntry"
         android:layout_alignStart="@+id/nameEntry"
         android:text="Birthday (mm/dd/yyyy)"
-        android:textSize="40dp" />
+        android:textSize="40dp"
+        android:textColor="@color/FillIns" />
 
 </RelativeLayout>

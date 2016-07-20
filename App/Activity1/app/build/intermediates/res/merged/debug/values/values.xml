@@ -159,6 +159,7 @@
         <item>"By painting your roof white instead of keeping it dark colored, it won’t "
             "get as hot in the summer, which means your AC doesn’t have to work as hard"</item>
     </array>
+    <color name="FillIns">#cb999999</color>
     <color name="Invisible">#00ffffff</color>
     <color name="background">#000000</color>
     <color name="common_action_bar_splitter">#d2d2d2</color>
