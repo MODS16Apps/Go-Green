@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/recyclepg">
+
+    <TextView
+        android:layout_width="230dp"
+        android:layout_height="190dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/textView3"
+        android:gravity="center"
+        android:textSize="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
+        android:typeface="sans"
+        android:textColor="#e0000000"
+        android:textStyle="bold|italic" />
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/cardboard_button"
+        android:background="@drawable/cardboard"
+        android:layout_alignTop="@+id/can_button"
+        android:layout_alignLeft="@+id/phone_button" />
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/can_button"
+        android:background="@drawable/bottle"
+        android:layout_below="@+id/paper_button"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="45dp" />
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/phone_button"
+        android:background="@drawable/phone"
+        android:adjustViewBounds="false"
+        android:layout_alignTop="@+id/paper_button"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="110dp" />
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/paper_button"
+        android:background="@drawable/stationery"
+        android:layout_below="@+id/textView3"
+        android:layout_alignLeft="@+id/can_button"
+        android:layout_marginTop="18dp" />
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/socks_button"
+        android:background="@drawable/socks"
+        android:layout_below="@+id/cardboard_button"
+        android:layout_centerHorizontal="true" />
+
+    <ScrollView
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:fillViewport="false"
+        android:id="@+id/scroll"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false"
+        android:layout_centerHorizontal="false"
+        android:layout_centerVertical="false"
+        android:layout_marginLeft="116dp"
+        android:layout_marginTop="255dp">
+        <TextView
+            android:layout_width="400dp"
+            android:layout_height="400dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Do recycle glossy, white, colored papers, magazines, junk mail, file folders
+	Dont recycle plastic coated papers, food/wrappers
+	Did you know you don’t need to remove the staples or tape on a paper before
+recycling?"
+            android:id="@+id/textcans"
+            android:background="#f1363936"
+            android:textColor="#d4ffffff"
+            android:textSize="40dp"
+            android:typeface="sans"
+            android:textAlignment="gravity"
+            android:gravity="left" />
+    </ScrollView>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/home"
+        android:layout_below="@+id/socks_button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/paper_button"
+        android:background="@drawable/home" />
+
+
+</RelativeLayout>

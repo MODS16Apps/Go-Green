@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "Hello, Android",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/eband3 for more book information.
+-->
+<resources>
+
+    <array name="games">
+        <item>"Hangman"</item>
+        <item>"Trivia Quiz"</item>
+    </array>
+    <array name="car">
+        <item>"Use carpooling (if you take i-95 on your way to the museum, you can drive in the diamond lane)"
+            " or public transit to help save hundreds of tons of carbon emmsions from entering our atmosphere "
+            "yearly.\n\nDrive at the speed limit! All vehicles lose fuel economy at speeds above 55 miles per hour. "
+            "And driving 65 instead of 75 reduces fuel cost 13%"</item>
+    </array>
+    <array name="machine">
+        <item>"Make sure you only wash your clothes when the machine is fully loaded"</item>
+    </array>
+    <array name="line">
+        <item>"Save energy by hanging your clothes to dry instead of using a dryer."
+           "Simply letting your clothes dry for a few hours before tossing them in"
+           " the dryer makes the dryer more efficient and waste less energy."
+            </item>
+    </array>
+    <array name="bins">
+        <item>"Make sure you recycle only what you can!"</item>
+    </array>
+    <array name="power">
+        <item>"Use a power strip and turn it off when electronics are not in use!"</item>
+    </array>
+    <array name="window">
+        <item>"Replace old curtains with honeycomb shades. They have folds of fabric"
+            " that create multiple air pockets and help insulate windows."</item>
+    </array>
+    <array name="door">
+        <item>"Keep doors open to allow cool air to move freely through your home"</item>
+    </array>
+    <array name="light">
+        <item>"Using the ENERGY STAR Certified Light Bulbs (the twisty ones) takes 70-90% less energy than"
+           " traditional incandescent bulbs. They last 10 to 25 times longer and save $30 to $80 in electricity"
+           " costs over their lifetime."</item>
+    </array>
+    <array name="temp">
+        <item>"In the winter, put on more layers instead of turning up the heat!"
+             " And in the summer, open windows instead up turning on the AC."</item>
+    </array>
+    <array name="toilet">
+        <item>"The average persons use 2.8 miles of toilet paper in a year"</item>
+    </array>
+    <array name="shower">
+        <item>"Taking a shower requires 10 to 25 gallons of water, while taking a bath requires about 70 gallons"</item>
+    </array>
+    <array name="sink">
+        <item>"By turning of the faucet while brushing teeth, you can save approx. 100 gallons each month"</item>
+    </array>
+    <array name="sink2">
+        <item>"The average person uses approx. 100 gallons of water each day, "
+            "this can be cut by 30% by simple steps like repairing dripping faucets"</item>
+    </array>
+    <array name="dishwasher">
+        <item>" Operate your dishwasher only when it’s fully loaded, otherwise, use the sink"</item>
+    </array>
+    <array name="oven">
+        <item>"Keep door closed while cooking, temperature can drop as many as 25"
+           " degrees each time you open the door"</item>
+    </array>
+    <array name="fridge">
+        <item>"Dust your fridge to clean the coil behind"
+            "\nSet fridge temperatures between 30 and 42 degrees F"</item>
+    </array>
+    <array name="x">
+        <item>"By painting your roof white instead of keeping it dark colored, it won’t "
+            "get as hot in the summer, which means your AC doesn’t have to work as hard"</item>
+    </array>
+    <array name="check">
+        <item>"Installing solar panels will not only cut your electricity bill costs, but also "
+            "can lower your taxes!"</item>
+    </array>
+    <array name="can">
+        <item>
+            "<b>DO</b> recycle aluminum cans, glass bottles (any color!), plastic containers numbered 1-7 , and steel cans and remember to clean your containers of food residue before recycling!\n<b>DON\'T</b> recycle plastic bags, food wrappers, or Styrofoam. While you can’t recycle plastic bags with your other recyclables, you can return them to most grocery stores or, just use reusable bags when shopping."</item>
+    </array>
+    <array name="cardboard">
+        <item>"When recycling cardboard be sure to flatten the boxes and remove extra tape."</item>
+    </array>
+    <array name="paper">
+        <item>"<b>DO</b> recycle glossy, white, colored papers, magazines, junk mail, and file folders.\n<b>DON\'T</b> recycle plastic coated papers, food/wrappers. And did you know you don’t need to remove the staples or tape on a paper before recycling?"</item>
+    </array>
+    <array name="phone">
+        <item>"Did you know you can recycle your old electronics? \n"
+            "Rechargeable Batteries, audio and video tapes, computer equipment, monitors,"
+            "CDs, cell phones, and toner cartridges can all be sent to a local recycling facility.\n"
+            "About 85% of electronics are discarded in landfills or incinerators, and about 5"
+            "million devices gather dust in storage. When these aren’t recycled, hazardous waste can seep into "
+            "groundwater and cause serious pollution and health risks"</item>
+    </array>
+    <array name="socks">
+        <item>"Grew out of your old clothes? Deliver them to a local charity or thrift store."</item>
+    </array>
+     <array name="cans"> 
+        <item>"Aluminum cans can take anywhere between 200 to 500 years to decompose in a landfill. Did you know that making new aluminum cans from recycled cans takes 95% less energy than creating the same amount with aluminum oxides "</item> 
+    </array>
+     <array name="paper_bag"> 
+        <item>"Paper bags only take 1 month to decompose! Consider taking your lunch in a paper bag made with recyled paper instead of a plastic bag!"</item>
+     </array>
+     <array name="plastic_bottle">
+         <item>"Plastic bottles take 450 years to decompose! Make sure to throw them in your recyling bin or send them back to the manufacturer for a 5¢ reward! "</item> 
+    </array> 
+    <array name="plastic_wrap">
+         <item>"Aluminum foil takes 400 years to decay! The average american throws out about three pounds of aluminum foil each year where it releases toxic metals and gas into the atmosphere. Few people know that clean aluminum foil can easily be recyled along with aluminum cans! "</item>
+         </array>
+     <array name="banana"> 
+        <item>"Banana peels and other fruit peels take only 2 to 5 weeks to decompose!"</item> 
+    </array>
+     <array name="apple"> <item>"An apple core takes up to 2 months to decay."</item>
+     </array>
+     <array name="glass_bottle">
+         <item>"If a Neanderthal had dropped a glass bottle in the park in front of MODS it would still be there today! This is because glass bottles take 1 million years to decay!"</item>
+     </array>
+     <array name="plastic_bag">
+         <item>"Plastic bags take between 10 and 20 years to decompose. Make sure you bring your own bags to the grocery store or return used bags to the store for reuse!"</item>
+     </array> 
+    <array name="gum">
+         <item>"Chewing gum is not bidegradable because the base is made of a type of plastic. However, it can be digested by stomach acids in a few hours! "</item>
+         </array>
+    <array name="decay_explain">
+        <item>"Click on each piece of trash to learn more about how long each takes to decay, and how you should properly dispose of it!</item>
+    </array>
+     <array name="australia"> 
+    <item>"<b>"Australia"</b>\n-Signed Kyoto protocol where they agreed to hold the growth in its greenhouse gas emissions to 8 percent above 1990 levels for the 2008-2012 period. By and large, Australia has met those targets, mostly by reducing deforestation and land clearing.\n-Use carbon trading plan, which makes Australia’s top 500 worst polluters pay a tax on every ton of carbon emitted. Currently trying to switch to full on, market-based carbon trading system."</item> 
+</array>
+     <array name="brazil"> 
+    <item>"<b>"Brazil"</b>"</item>
+     </array>
+     <array name="china">
+     <item>"<b>"China"</b>"</item> 
+</array> 
+    <array name="eu">
+         <item>"<b>"The European Union"</b>"</item>
+         </array>
+     <array name="india"> 
+    <item>"<b>"India"</b>"</item> 
+</array>
+     <array name="indonesia"> 
+    <item>"<b>"Indonesia"</b>"</item>
+     </array>
+     <array name="japan">
+     <item>"<b>"Japan"</b>"</item>
+     </array>
+     <array name="russia">
+     <item>"<b>"Russia"</b>"</item>
+     </array> 
+    <array name="usa">
+         <item>"<b>"The United States and Canada</b>"</item>
+         </array>
+    <array name="south_africa">
+         <item>"<b>"South Africa</b>"</item>
+         </array>
+    <array name="map_explain">
+        <item>"Click on each dot across the map to learn more about the way this country or region is combatting climate change!"</item>
+    </array>
+    <array name="test">
+        <item></item>
+    </array>
+
+
+
+</resources>

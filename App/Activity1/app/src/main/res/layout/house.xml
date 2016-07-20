@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootRL"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/doors"
+    android:layout_alignParentBottom="true">
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="175dp"
+        android:layout_height="350dp"
+        android:id="@+id/bedroom_button"
+        android:background="#00e5e2e4"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="30dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="175dp"
+        android:layout_height="350dp"
+        android:id="@+id/kitchen_button"
+        android:background="#00e5e2e4"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/bedroom_button"
+        android:layout_marginLeft="77dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="175dp"
+        android:layout_height="350dp"
+        android:id="@+id/bathroom_button"
+        android:background="#00e5e2e4"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/garage_button"
+        android:layout_marginRight="77dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="175dp"
+        android:layout_height="350dp"
+        android:id="@+id/garage_button"
+        android:background="#00e5e2e4"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="30dp" />
+
+
+</RelativeLayout>

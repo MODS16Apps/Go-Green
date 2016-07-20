@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/cliabout">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="400dp"
+        android:fillViewport="false"
+        android:id="@+id/scroll"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="false"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/editText6"
+            android:text="Scientists always talk about global warming and climate change, but what does it all really mean?
+
+Global warming refers to the increase of average temperature of the earth’s atmosphere, which is caused by something known as the greenhouse effect. When the sun shines its rays on earth, the surface emits radiation back into the space, but much of the energy remains trapped in the atmosphere, causing the planet to heat up. As humans, we need the earth to be warm in order to survive, but when the earth heats up too quickly, the plant gets warmer than usual. "
+            android:gravity="fill"
+            android:textSize="30dp"
+            android:background="#b051cf4b"
+            android:textColor="#e4000000" />
+    </ScrollView>
+
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="56dp"
+        android:id="@+id/diagram_button"
+        android:layout_marginBottom="30dp"
+        android:background="#000faa09"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/button8"
+        android:layout_marginLeft="50dp" />
+
+    <Button
+        android:layout_width="151dp"
+        android:layout_height="64dp"
+        android:id="@+id/button7"
+        android:layout_marginBottom="45dp"
+        android:layout_above="@+id/scroll"
+        android:layout_alignParentLeft="true"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="151dp"
+        android:layout_height="64dp"
+        android:id="@+id/button8"
+        android:layout_alignTop="@+id/button7"
+        android:layout_toRightOf="@+id/button7"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="151dp"
+        android:layout_height="64dp"
+        android:id="@+id/button9"
+        android:layout_alignTop="@+id/button10"
+        android:layout_alignParentRight="true"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="151dp"
+        android:layout_height="64dp"
+        android:id="@+id/button10"
+        android:layout_alignTop="@+id/button8"
+        android:layout_toLeftOf="@+id/button9"
+        android:background="#00000000" />
+
+
+</RelativeLayout>

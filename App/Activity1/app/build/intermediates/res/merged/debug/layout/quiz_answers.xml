@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/quiz">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView2"
+        android:layout_gravity="center_horizontal"
+        android:fillViewport="false">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:id="@+id/num"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#fffbfff2"
+                android:textSize="30dp"
+                android:layout_weight="0.12" />
+
+            <TextView
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans1"
+                android:layout_weight="0.12"
+                android:textSize="24dp"
+                android:textColor="#fffbfff2"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:textStyle="bold|italic"
+                android:layout_marginTop="40dp"
+                android:text="
+
+1. An average American throws how much away in one day?
+
+4.4 lbs -- That’s like throwing away a chihuahua! A class of just 23 people make over 100 pounds of trash EVERY day!
+"
+                android:paddingRight="30dp" />
+
+            <TextView
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans2"
+                android:layout_weight="0.12"
+                android:textSize="24dp"
+                android:textColor="#fffbfff2"
+                android:layout_marginLeft="40dp"
+                android:textStyle="bold|italic"
+                android:layout_marginTop="40dp"
+                android:text="
+2. About how much of the trash in landfills could have actually been recycled?
+
+
+80%
+            "/>
+            <TextView
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans3"
+                android:layout_weight="0.12"
+                android:textSize="24dp"
+                android:textColor="#fffbfff2"
+                android:layout_marginLeft="40dp"
+                android:textStyle="bold|italic"
+                android:layout_marginTop="40dp"
+                android:text="
+3. How long does it take for ONE glass bottle to decompose in a landfill?
+
+
+4000 Years
+"/>
+            <TextView
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans4"
+                android:layout_weight="0.12"
+                android:textSize="24dp"
+                android:textColor="#fffbfff2"
+                android:layout_marginLeft="40dp"
+                android:textStyle="bold|italic"
+                android:layout_marginTop="40dp"
+                android:text="
+
+4. What is the most energy-efficient appliance in the average kitchen?
+
+Microwave, which uses about ⅓ of the total energy consumed by an oven
+
+"
+                android:paddingRight="70dp" />
+            <TextView
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans5"
+                android:layout_weight="0.12"
+                android:textSize="24dp"
+                android:textColor="#fffbfff2"
+                android:layout_marginLeft="40dp"
+                android:textStyle="bold|italic"
+                android:layout_marginTop="40dp"
+                android:text="
+5. What is the primary cause of sea level rise?
+
+
+Global warming -- sea level has risen a total of 8 inches since 1880, due to thermal expansion and melting of the ice caps
+"/>
+            <TextView
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans6"
+                android:layout_weight="0.12"
+                android:textSize="24dp"
+                android:textColor="#fffbfff2"
+                android:layout_marginLeft="40dp"
+                android:textStyle="bold|italic"
+                android:layout_marginTop="40dp"
+                android:text="
+6. Global warming is expected to decimate how many species on earth over the next forty years?
+
+
+2.1 million species -- as temperatures rise and weather patterns are drastically altered, many species are forced to move to cooler areas to survive.
+"
+                android:paddingRight="50dp" />
+            <TextView
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans7"
+                android:layout_weight="0.12"
+                android:textSize="24dp"
+                android:textColor="#fffbfff2"
+                android:layout_marginLeft="40dp"
+                android:textStyle="bold|italic"
+                android:layout_marginTop="40dp"
+                android:text="
+
+7. Which activity generally uses the most amount of water?
+
+
+Landscaping -- up to 50% of household consumption of water is used towards landscaping, and about half of that water is lost through evaporation and runoff caused by overwatering
+"
+                android:paddingRight="50dp" />
+            <TextView
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans8"
+                android:layout_weight="0.12"
+                android:textSize="24dp"
+                android:textColor="#fffbfff2"
+                android:layout_marginLeft="40dp"
+                android:textStyle="bold|italic"
+                android:layout_marginTop="40dp"
+                android:text="
+
+8. Which country produces the greatest amount of greenhouse gases?
+
+
+ China currently produces the most amount of greenhouse gases, about a total of 23% of the world’s gas emission, followed by the US, which produces 19% of the total
+"
+                android:paddingRight="50dp" />
+            <TextView
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans9"
+                android:layout_weight="0.12"
+                android:textSize="24dp"
+                android:textColor="#fffbfff2"
+                android:layout_marginLeft="40dp"
+                android:textStyle="bold|italic"
+                android:layout_marginTop="40dp"
+                android:text="
+9. Which of the following uses the most energy when idle?
+
+
+Playstation 3, which uses about 200 watts and nearly as much when idle, using more energy than an average refrigerator. Did you know that idle power consumes more electricity than all the solar panels in America combined? Always be sure to unplug your devices when not in use!
+"
+                android:paddingRight="70dp" />
+            <TextView
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans10"
+                android:layout_weight="0.12"
+                android:textSize="24dp"
+                android:textColor="#fffbfff2"
+                android:layout_marginLeft="40dp"
+                android:textStyle="bold|italic"
+                android:layout_marginTop="40dp"
+                android:text="
+
+10. Which of the following is a greenhouse gas?
+
+All of the above; although they are all greenhouse gases, water vapor contributes to 60% of the greenhouse effect
+
+"
+                android:paddingRight="90dp" />
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/home"
+                android:background="@drawable/home" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

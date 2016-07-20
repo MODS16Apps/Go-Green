@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/heap">
+
+    <Button
+        android:layout_width="130dp"
+        android:layout_height="50dp"
+        android:text="Subtitles/Lyrics"
+        android:id="@+id/trip_lyrics_button"
+        android:layout_marginTop="321dp"
+        android:textColor="#00000000"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/trip_materials_button"
+        android:background="#00ffffff"
+        android:layout_marginRight="75dp" />
+
+
+
+    <Button
+        android:layout_width="290dp"
+        android:layout_height="50dp"
+        android:text="What is Harry the heap Made Of?              "
+        android:id="@+id/trip_materials_button"
+        android:layout_marginRight="48dp"
+        android:layout_marginBottom="154dp"
+        android:textColor="#00000000"
+        android:background="#00ffffff"
+        android:layout_alignBottom="@+id/trip_lyrics_button"
+        android:layout_alignParentRight="true" />
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/home"
+        android:background="@drawable/homebw"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+
+
+</RelativeLayout>

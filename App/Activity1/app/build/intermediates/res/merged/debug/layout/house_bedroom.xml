@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/livingroom">
+
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="55dp"
+        android:id="@+id/window_button"
+        android:layout_marginTop="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="195dp"
+        android:background="#000faa09" />
+
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="55dp"
+        android:id="@+id/light_button"
+        android:layout_alignTop="@+id/window_button"
+        android:layout_alignLeft="@+id/temp_button"
+        android:background="#000098aa" />
+
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="55dp"
+        android:id="@+id/temp_button"
+        android:layout_marginTop="109dp"
+        android:layout_below="@+id/window_button"
+        android:layout_toRightOf="@+id/window_button"
+        android:layout_marginLeft="305dp"
+        android:background="#000098aa" />
+
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="55dp"
+        android:id="@+id/power_button"
+        android:layout_marginBottom="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/window_button"
+        android:layout_marginRight="43dp"
+        android:background="#000098aa" />
+
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="55dp"
+        android:id="@+id/door_button"
+        android:layout_marginLeft="101dp"
+        android:layout_alignTop="@+id/power_button"
+        android:layout_toRightOf="@+id/temp_button"
+        android:layout_marginTop="25dp"
+        android:background="#000098aa" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#0000"
+        android:id="@+id/back"
+        android:layout_toRightOf="@+id/door_button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/temp_button" />
+</RelativeLayout>

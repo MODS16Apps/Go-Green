@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Activity1.iml" filepath="$PROJECT_DIR$/Activity1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Activity1-app.iml" filepath="$PROJECT_DIR$/app/Activity1-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cyandie/Cyandie.iml" filepath="$PROJECT_DIR$/Cyandie/Cyandie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cyandie/app/Cyandie-app.iml" filepath="$PROJECT_DIR$/Cyandie/app/Cyandie-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/app/Map-app.iml" filepath="$PROJECT_DIR$/Map/app/Map-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map2/Map2.iml" filepath="$PROJECT_DIR$/Map2/Map2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map2/app/Map2-app.iml" filepath="$PROJECT_DIR$/Map2/app/Map2-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/app/Test-app.iml" filepath="$PROJECT_DIR$/Test/app/Test-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flagQuiz/flagQuiz.iml" filepath="$PROJECT_DIR$/flagQuiz/flagQuiz.iml" />
+    </modules>
+  </component>
+</project>

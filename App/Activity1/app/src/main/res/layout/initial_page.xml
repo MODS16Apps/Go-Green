@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blank_homepg">
+
+    <EditText
+        android:layout_width="500dp"
+        android:layout_height="100dp"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:ems="10"
+        android:id="@+id/nameEntry"
+        android:textSize="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="255dp" />
+
+    <CalendarView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:id="@+id/calendarView"
+        android:layout_above="@+id/space22"
+        android:layout_centerHorizontal="true" />
+
+    <Space
+        android:layout_width="200px"
+        android:layout_height="150px"
+        android:id="@+id/space21"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Birthday:"
+        android:id="@+id/textView21"
+        android:textSize="40dp"
+        android:textColor="@color/background"
+        android:layout_below="@+id/space21"
+        android:layout_toLeftOf="@+id/space21"
+        android:layout_toStartOf="@+id/space21" />
+
+    <Space
+        android:layout_width="200px"
+        android:layout_height="150px"
+        android:id="@+id/space22"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

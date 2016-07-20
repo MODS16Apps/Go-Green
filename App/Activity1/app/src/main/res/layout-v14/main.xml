@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/blank_homepg">
+
+    <Button
+        android:layout_width="370dp"
+        android:layout_height="100dp"
+        android:id="@+id/continue_button"
+        android:background="@drawable/blank_button"
+        android:layout_above="@+id/space2"
+        android:layout_alignLeft="@+id/space2"
+        android:text="Information"
+        android:textColor="@android:color/background_dark"
+        android:textSize="40dp"
+        android:typeface="sans" />
+
+    <Button
+        android:layout_width="370dp"
+        android:layout_height="100dp"
+        android:id="@+id/new_button"
+        android:background="@drawable/blank_button"
+        android:layout_above="@+id/space"
+        android:layout_centerHorizontal="true"
+        android:text="Games"
+        android:textColor="@android:color/background_dark"
+        android:textSize="40dp"
+        android:typeface="sans" />
+
+    <Button
+        android:layout_width="370dp"
+        android:layout_height="100dp"
+        android:id="@+id/exit_button"
+        android:background="@drawable/blank_button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/new_button"
+        android:layout_marginBottom="107dp"
+        android:text="World Map"
+        android:textColor="@android:color/background_dark"
+        android:textSize="40dp"
+        android:typeface="sans" />
+
+    <Space
+        android:layout_width="367dp"
+        android:layout_height="70dp"
+        android:layout_above="@+id/exit_button"
+        android:layout_alignRight="@+id/exit_button"
+        android:id="@+id/space" />
+
+    <Space
+        android:layout_width="367dp"
+        android:layout_height="70dp"
+        android:id="@+id/space2"
+        android:layout_above="@+id/new_button"
+        android:layout_alignLeft="@+id/new_button" />
+
+</RelativeLayout>

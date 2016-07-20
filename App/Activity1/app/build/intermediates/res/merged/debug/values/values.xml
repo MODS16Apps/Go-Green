@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <array name="apple"> <item>"An apple core takes up to 2 months to decay."</item>
+     </array>
+    <array name="australia"> 
+    <item>"<b>"Australia"</b>\n-Signed Kyoto protocol where they agreed to hold the growth in its greenhouse gas emissions to 8 percent above 1990 levels for the 2008-2012 period. By and large, Australia has met those targets, mostly by reducing deforestation and land clearing.\n-Use carbon trading plan, which makes Australia’s top 500 worst polluters pay a tax on every ton of carbon emitted. Currently trying to switch to full on, market-based carbon trading system."</item> 
+</array>
+    <array name="banana"> 
+        <item>"Banana peels and other fruit peels take only 2 to 5 weeks to decompose!"</item> 
+    </array>
+    <array name="bins">
+        <item>"Make sure you recycle only what you can!"</item>
+    </array>
+    <array name="brazil"> 
+    <item>"<b>"Brazil"</b>"</item>
+     </array>
+    <array name="can">
+        <item>
+            "<b>DO</b> recycle aluminum cans, glass bottles (any color!), plastic containers numbered 1-7 , and steel cans and remember to clean your containers of food residue before recycling!\n<b>DON\'T</b> recycle plastic bags, food wrappers, or Styrofoam. While you can’t recycle plastic bags with your other recyclables, you can return them to most grocery stores or, just use reusable bags when shopping."</item>
+    </array>
+    <array name="cans"> 
+        <item>"Aluminum cans can take anywhere between 200 to 500 years to decompose in a landfill. Did you know that making new aluminum cans from recycled cans takes 95% less energy than creating the same amount with aluminum oxides "</item> 
+    </array>
+    <array name="car">
+        <item>"Use carpooling (if you take i-95 on your way to the museum, you can drive in the diamond lane)"
+            " or public transit to help save hundreds of tons of carbon emmsions from entering our atmosphere "
+            "yearly.\n\nDrive at the speed limit! All vehicles lose fuel economy at speeds above 55 miles per hour. "
+            "And driving 65 instead of 75 reduces fuel cost 13%"</item>
+    </array>
+    <array name="cardboard">
+        <item>"When recycling cardboard be sure to flatten the boxes and remove extra tape."</item>
+    </array>
+    <array name="check">
+        <item>"Installing solar panels will not only cut your electricity bill costs, but also "
+            "can lower your taxes!"</item>
+    </array>
+    <array name="china">
+     <item>"<b>"China"</b>"</item> 
+</array>
+    <array name="decay_explain">
+        <item>"Click on each piece of trash to learn more about how long each takes to decay, and how you should properly dispose of it!</item>
+    </array>
+    <array name="dishwasher">
+        <item>" Operate your dishwasher only when it’s fully loaded, otherwise, use the sink"</item>
+    </array>
+    <array name="door">
+        <item>"Keep doors open to allow cool air to move freely through your home"</item>
+    </array>
+    <array name="eu">
+         <item>"<b>"The European Union"</b>"</item>
+         </array>
+    <array name="fridge">
+        <item>"Dust your fridge to clean the coil behind"
+            "\nSet fridge temperatures between 30 and 42 degrees F"</item>
+    </array>
+    <array name="games">
+        <item>"Hangman"</item>
+        <item>"Trivia Quiz"</item>
+    </array>
+    <array name="glass_bottle">
+         <item>"If a Neanderthal had dropped a glass bottle in the park in front of MODS it would still be there today! This is because glass bottles take 1 million years to decay!"</item>
+     </array>
+    <array name="gum">
+         <item>"Chewing gum is not bidegradable because the base is made of a type of plastic. However, it can be digested by stomach acids in a few hours! "</item>
+         </array>
+    <array name="india"> 
+    <item>"<b>"India"</b>"</item> 
+</array>
+    <array name="indonesia"> 
+    <item>"<b>"Indonesia"</b>"</item>
+     </array>
+    <array name="japan">
+     <item>"<b>"Japan"</b>"</item>
+     </array>
+    <array name="light">
+        <item>"Using the ENERGY STAR Certified Light Bulbs (the twisty ones) takes 70-90% less energy than"
+           " traditional incandescent bulbs. They last 10 to 25 times longer and save $30 to $80 in electricity"
+           " costs over their lifetime."</item>
+    </array>
+    <array name="line">
+        <item>"Save energy by hanging your clothes to dry instead of using a dryer."
+           "Simply letting your clothes dry for a few hours before tossing them in"
+           " the dryer makes the dryer more efficient and waste less energy."
+            </item>
+    </array>
+    <array name="machine">
+        <item>"Make sure you only wash your clothes when the machine is fully loaded"</item>
+    </array>
+    <array name="map_explain">
+        <item>"Click on each dot across the map to learn more about the way this country or region is combatting climate change!"</item>
+    </array>
+    <array name="oven">
+        <item>"Keep door closed while cooking, temperature can drop as many as 25"
+           " degrees each time you open the door"</item>
+    </array>
+    <array name="paper">
+        <item>"<b>DO</b> recycle glossy, white, colored papers, magazines, junk mail, and file folders.\n<b>DON\'T</b> recycle plastic coated papers, food/wrappers. And did you know you don’t need to remove the staples or tape on a paper before recycling?"</item>
+    </array>
+    <array name="paper_bag"> 
+        <item>"Paper bags only take 1 month to decompose! Consider taking your lunch in a paper bag made with recyled paper instead of a plastic bag!"</item>
+     </array>
+    <array name="phone">
+        <item>"Did you know you can recycle your old electronics? \n"
+            "Rechargeable Batteries, audio and video tapes, computer equipment, monitors,"
+            "CDs, cell phones, and toner cartridges can all be sent to a local recycling facility.\n"
+            "About 85% of electronics are discarded in landfills or incinerators, and about 5"
+            "million devices gather dust in storage. When these aren’t recycled, hazardous waste can seep into "
+            "groundwater and cause serious pollution and health risks"</item>
+    </array>
+    <array name="plastic_bag">
+         <item>"Plastic bags take between 10 and 20 years to decompose. Make sure you bring your own bags to the grocery store or return used bags to the store for reuse!"</item>
+     </array>
+    <array name="plastic_bottle">
+         <item>"Plastic bottles take 450 years to decompose! Make sure to throw them in your recyling bin or send them back to the manufacturer for a 5¢ reward! "</item> 
+    </array>
+    <array name="plastic_wrap">
+         <item>"Aluminum foil takes 400 years to decay! The average american throws out about three pounds of aluminum foil each year where it releases toxic metals and gas into the atmosphere. Few people know that clean aluminum foil can easily be recyled along with aluminum cans! "</item>
+         </array>
+    <array name="power">
+        <item>"Use a power strip and turn it off when electronics are not in use!"</item>
+    </array>
+    <array name="russia">
+     <item>"<b>"Russia"</b>"</item>
+     </array>
+    <array name="shower">
+        <item>"Taking a shower requires 10 to 25 gallons of water, while taking a bath requires about 70 gallons"</item>
+    </array>
+    <array name="sink">
+        <item>"By turning of the faucet while brushing teeth, you can save approx. 100 gallons each month"</item>
+    </array>
+    <array name="sink2">
+        <item>"The average person uses approx. 100 gallons of water each day, "
+            "this can be cut by 30% by simple steps like repairing dripping faucets"</item>
+    </array>
+    <array name="socks">
+        <item>"Grew out of your old clothes? Deliver them to a local charity or thrift store."</item>
+    </array>
+    <array name="south_africa">
+         <item>"<b>"South Africa</b>"</item>
+         </array>
+    <array name="temp">
+        <item>"In the winter, put on more layers instead of turning up the heat!"
+             " And in the summer, open windows instead up turning on the AC."</item>
+    </array>
+    <array name="test">
+        <item/>
+    </array>
+    <array name="toilet">
+        <item>"The average persons use 2.8 miles of toilet paper in a year"</item>
+    </array>
+    <array name="usa">
+         <item>"<b>"The United States and Canada</b>"</item>
+         </array>
+    <array name="window">
+        <item>"Replace old curtains with honeycomb shades. They have folds of fabric"
+            " that create multiple air pockets and help insulate windows."</item>
+    </array>
+    <array name="x">
+        <item>"By painting your roof white instead of keeping it dark colored, it won’t "
+            "get as hot in the summer, which means your AC doesn’t have to work as hard"</item>
+    </array>
+    <color name="Invisible">#00ffffff</color>
+    <color name="background">#000000</color>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <integer name="google_play_services_version">8115000</integer>
+    <string name="Information">Information</string>
+    <string name="Map">Map</string>
+    <string name="Trip">TRIP the Robot</string>
+    <string name="about_text">\
+<b>Go Green is an...</b>
+</string>
+    <string name="app_name">Go Green</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="back_button"><b>Back</b></string>
+    <string name="climate_change">Scientists always talk about global warming and climate
+        change, but what does it all really mean?  Global warming refers to the increase
+        of average temperature of the earth’s atmosphere, which is caused by something
+        known as the greenhouse effect. When the sun shines its rays on earth,
+        the surface emits radiation back into the space, but much of the energy
+        remains trapped in the atmosphere, causing the planet to heat up. As humans,
+        we need the earth to be warm in order to survive, but when the earth heats up
+        too quickly, the plant gets warmer than usual.</string>
+    <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="creds">This app was created by Savannah Gross, Alissa Kushner,
+       and Sam Maldonado in collaboration with Dr. Ravi Shankar, Professor Francis McAfee,
+       Santiago Aguerrevere, and Demetrius Dukes from FAU. Special thanks to United Way for sponsorship
+       and The Museum of Discovery and Science, notably Summer Scarlatelli and Joe Cytacki who were responsible
+       for the success of the MODS App-titude Program.
+       Credits to sources:
+   Diagram 1
+Trenberth, K. E., J. T. Fasullo, and J. Kiehl, 2009: Earth\'s global energy budget (PDF). Bull. Amer. Meteor. Soc., 90, No. 3, 311-324, doi: 10.1175/2008BAMS2634.1.
+Diagram 2
+NASA, http://science-edu.larc.nasa.gov/energy_budget/
+       We also thank "Hello Android" for their open source code that was used as a template for our application.
+   </string>
+    <string name="easy_label">Easy</string>
+    <string name="eng_eff_button">Energy Efficiency</string>
+    <string name="eng_eff_text">
+        \n-A playstation uses more energy than a refrigerator\n
+        -America burns nearly half of the world’s gasoline\n
+        -The World Coal Institute says that, at current production levels, proven coal
+        reserves are estimated to last 147 years. That means no more coal after 2155.\n
+
+    <i>So how do we fix this?</i>\n
+    -Researchers suggest that if developers had to prepay 50 years worth of utility bills,
+        buildings would be constructed so that they waste less energy. \n
+    -UNPLUG YOUR DEVICES WHEN THEY AREN\’T BEING USED!!!!
+</string>
+    <string name="exit">To exit game\nat any time,\ntype "home" and\nsubmit</string>
+    <string name="exit_label">Exit</string>
+    <string name="game_label">Games</string>
+    <string name="go_green">Go Green</string>
+    <string name="hard_label">Hard</string>
+    <string name="hints_summary">Show hints during play</string>
+    <string name="hints_title">Hints</string>
+    <string name="info_label">Information</string>
+    <string name="info_popUp">Information about going green:</string>
+    <string name="main_title">Go Green</string>
+    <string name="medium_label">Medium</string>
+    <string name="music_summary">Play background music</string>
+    <string name="music_title">Music</string>
+    <string name="new_game_title">Difficulty</string>
+    <string name="no_rec_bins">\t\t\tWhy Are There No\n Recycling Bins In MODS?</string>
+    <string name="pu">Powerful You</string>
+    <string name="rec">Recycling in MODS</string>
+    <string name="rec_at_mods">
+       <i> Recycling involves using old things and turning them into new, useful items.</i>
+
+        The signature recycle symbol stands for the three main steps of the recycling process:
+        collection of materials, manufacture into new items, and purchase of the finished products.
+        Making products from old and recycled materials saves money,
+        energy and much of Earth\'s natural resources, which is great for the environment.
+
+
+
+\n\n<i>If it\'s so great, then why are there no recycling bins in MODS?</i>
+
+The City of Fort Lauderdale waste services sorts through all the trash to find
+        recyclables as an automatic and free service to all residents. Companies such as
+        Republic Services, the sponsor of this Go Green exhibit, help the world by recycling what we forget to.\n
+
+In your own home, it\'s good to do your part in making sure you reduce, reuse, and recycle
+    as much as you can! Doing these simple things is important for making our environment a healthier place.
+    See the next page to find out about all the things you can recycle!
+    </string>
+    <string name="settings_label">Settings...</string>
+    <string name="settings_shortcut">s</string>
+    <string name="settings_title"/>
+    <string name="storm">Storm Center</string>
+    <string name="test">What do you want a map of?</string>
+    <string name="tips">Tips and Tricks</string>
+    <string name="trip_about">
+        \nMeet Harry, a fully-animated robot, who spends his days rapping
+        about recycling and encouraging visitors to Go Green!\n\n
+
+Harry the Heap is made completely of reused items!
+        With bowls for ears and plastic bottles for arms, Harry is here to help you learn
+        how to reuse and recycle items around your house.
+    </string>
+    <string name="trip_lyrics">Whatcha gonna do\n
+R-E-C-Y-C-L-E\n\n
+
+Hey! Alright Whatcha gonna do\n
+With those bottles and jars\n
+Whatcha gonna do\n
+With aluminum cans\n
+Put your hands up\n
+Pots and pans\n
+I said whatcha gonna do\n
+Whatcha gonna do\n
+Before it all comes down\n
+R-E-C-Y-C-L-E 2x\n\n
+
+Whatcha gonna do\n
+With those things you don\’t use\n
+Pots and pans and all the goofballs too\n
+I said whatcha gonna go\n
+With that worn down tire\n
+We’re so close who knows even copper wire\n
+I said whatcha gonna do\n
+Whatcha gunna do to help me and you\n\n
+
+Whatcha gonna do with just me and you\n\n
+
+R-E-C-Y-C-L-E 2x\n\n
+
+HEY!\n
+Whatcha gonna do\n
+With those clothes you don\’t need\n
+Wive it to institutions, associations, salvation army\n
+I said whatcha gonna do with mama\’s high heel shoes\n
+And anything else you got that she don\’t use\n
+I said whacha gonna do\n
+Whacha gonna do\n\n
+
+Give me an r..e..c..y..c..l..e..\n
+Gimme an “R”\n
+-R!\n
+Gimme an “E”\n
+-E!\n
+Gimme a “C”\n
+-C!\n
+Gimme a “Y”\n
+-Y!\n
+Gimme a “C-L-E”\n
+-C-L-E!\n
+R-E-C-Y-C-L-E 13x\n "
+</string>
+</resources>

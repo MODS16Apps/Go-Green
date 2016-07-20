@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/cligreen"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="400dp"
+        android:fillViewport="false"
+        android:id="@+id/scroll"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/editText6"
+            android:text="So why is the planet heating up so rapidly?
+
+The greenhouse effect needs certain gases to trap the heat in the atmosphere; these primarily include water vapor, carbon dioxide, methane, nitrous oxide, and ozone.
+
+Every time you turn on a computer, use an oven, or your parents drive a car, you are contributing to the emission of greenhouse gases. These activities burn fuel, which produces carbon dioxide to be released into the atmosphere.
+
+Even worse, Earth used to have a lot more forest coverage, which would help absorb the carbon dioxide in the air, because plants use it for photosynthesis. But as humans cut down more trees to make space for industrial use, we lose some of these “carbon sinks” that used to cancel out our gas emissions. "
+            android:gravity="fill"
+            android:textSize="30dp"
+            android:background="#fff"
+            android:textColor="#e4000000"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" />
+    </ScrollView>
+
+    <Button
+        android:layout_width="151dp"
+        android:layout_height="64dp"
+        android:id="@+id/button7"
+        android:layout_marginBottom="45dp"
+        android:layout_above="@+id/scroll"
+        android:layout_alignParentLeft="true"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="151dp"
+        android:layout_height="64dp"
+        android:id="@+id/button8"
+        android:layout_alignTop="@+id/button7"
+        android:layout_toRightOf="@+id/button7"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="151dp"
+        android:layout_height="64dp"
+        android:id="@+id/button9"
+        android:layout_alignTop="@+id/button10"
+        android:layout_alignParentRight="true"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="151dp"
+        android:layout_height="64dp"
+        android:id="@+id/button10"
+        android:layout_alignTop="@+id/button8"
+        android:layout_toLeftOf="@+id/button9"
+        android:background="#00000000" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/home"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/button8"
+        android:background="@drawable/home"
+        android:layout_alignTop="@+id/diagram_button" />
+
+    <Space
+        android:layout_width="367dp"
+        android:layout_height="50dp"
+        android:id="@+id/space8"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/button10" />
+
+    <Space
+        android:layout_width="20dp"
+        android:layout_height="200dp"
+        android:id="@+id/space9"
+        android:layout_above="@+id/space8"
+        android:layout_alignRight="@+id/space8" />
+
+    <Button
+        android:layout_width="315dp"
+        android:layout_height="100dp"
+        android:id="@+id/diagram_button"
+        android:background="@drawable/blank_button"
+        android:text="Diagrams"
+        android:textSize="60dp"
+        android:layout_above="@+id/space8"
+        android:layout_toLeftOf="@+id/space9" />
+
+
+</RelativeLayout>

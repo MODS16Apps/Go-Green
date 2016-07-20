@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="@drawable/quiz">
+
+    <TextView
+        android:layout_width="810dp"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:background="@drawable/hangmanstart"
+        android:id="@+id/textView6"
+        android:layout_alignParentTop="true" />
+
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:background="#0000"
+        android:id="@+id/start"
+        android:layout_marginBottom="91dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/home"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/home" />
+
+</RelativeLayout>

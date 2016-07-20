@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "Hello, Android",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/eband3 for more book information.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.mods.goGreen"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:icon="@drawable/iconnn"
+        android:label="@string/app_name" >
+        <activity
+            android:name="org.mods.goGreen.Initial"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.mods.goGreen.Sudoku"
+            android:label="Go Green"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.Information"
+            android:label="@string/Information"
+            android:screenOrientation="portrait" />
+        <!-- android:theme="@android:style/Theme.Dialog" -->
+>
+        <activity
+            android:name="org.mods.goGreen.Prefs"
+            android:label="@string/settings_title" >
+        </activity>
+        <activity
+            android:name="org.mods.goGreen.EnergyEfficient"
+            android:label="Energy Efficiency"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="org.mods.goGreen.Trip"
+            android:label="Harry the Heap"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.TripLyrics"
+            android:label="Song Lyrics and Subtitles"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.TripMaterials"
+            android:label="What Makes Up Harry?"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.Recycling"
+            android:label="Recycling at MODS"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.Tip"
+            android:label="Climate Change"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.CliGreenhouse"
+            android:label="Climate Change"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.CliWeather"
+            android:label="Climate Change"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.CliWater"
+            android:label="Climate Change"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.Waste"
+            android:label="Diagram 1"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="org.mods.goGreen.Climate2"
+            android:label="Diagram 2"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="org.mods.goGreen.HouseGarage"
+            android:label="Garage"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="org.mods.goGreen.InGarage"
+            android:label="Car"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="org.mods.goGreen.HouseKitchen"
+            android:label="Kitchen"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="org.mods.goGreen.HouseBedroom"
+            android:label="Living Room"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="org.mods.goGreen.HouseBathroom"
+            android:label="Bathroom"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="org.mods.goGreen.EngeryEfficent0"
+            android:label="Energy Efficentcy Home"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="org.mods.goGreen.MyQuiz"
+            android:label="Quiz Time!"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.QuizEasy"
+            android:label="Quiz Time!" />
+        <activity
+            android:name="org.mods.goGreen.Credits"
+            android:label="Credits"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.RecyclingMore"
+            android:label="What Should YOU Recycle?"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.RecCardboard"
+            android:label="Do&apos;s and Don&apos;ts of Recycling Cardboard"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.RecPhone"
+            android:label="Do&apos;s and Don&apos;ts of Recycling Electronic"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.RecCan"
+            android:label="Do&apos;s and Don&apos;ts of Recycling Cans"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.RecPaper"
+            android:label="Do&apos;s and Don&apos;ts of Recycling Paper"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.RecSocks"
+            android:label="Do&apos;s and Don&apos;ts of Recycling Clothes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.QuizAnswers"
+            android:label="Quiz Answers" />
+        <activity
+            android:name="org.mods.goGreen.Hangman"
+            android:label="Hangman"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.HangmanPlay"
+            android:label="Hangman"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.Decay"
+            android:label="Decay"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.mods.goGreen.ClimateMap"
+            android:label="Climate Chage Around the World"
+            android:screenOrientation="landscape" />
+        <!--
+     ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

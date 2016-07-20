@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/rootRL"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/gogreenex">
+
+        <TextView
+            android:layout_width="400dp"
+            android:layout_height="200dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Information"
+            android:id="@+id/title"
+            android:textSize="70dp"
+            android:layout_marginTop="101dp"
+            android:gravity="center_horizontal"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:typeface="serif"
+            android:textColor="#c92f332d" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:text="Energy Efficiency"
+            android:id="@+id/button"
+            android:gravity="center"
+            android:layout_below="@+id/title"
+            android:layout_alignLeft="@+id/button4"
+            android:layout_marginTop="49dp" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:text="Tips and Tricks"
+            android:id="@+id/button2"
+            android:gravity="center"
+            android:layout_below="@+id/button4"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:text="Recycling at MODS"
+            android:id="@+id/button3"
+            android:gravity="center"
+            android:layout_below="@+id/button2"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:text="Harry the Heap"
+            android:id="@+id/button4"
+            android:gravity="center"
+            android:layout_below="@+id/button"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>

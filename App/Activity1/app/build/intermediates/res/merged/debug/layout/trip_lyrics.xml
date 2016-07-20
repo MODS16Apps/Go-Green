@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/harry_songs">
+
+    <ScrollView
+        android:layout_width="500dp"
+        android:layout_height="550dp"
+        android:fillViewport="false"
+        android:id="@+id/scroll"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="false"
+        android:layout_marginTop="160dp"
+        android:layout_marginRight="150dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/editText6"
+            android:text="@string/trip_lyrics"
+            android:gravity="fill"
+            android:textSize="30dp"
+            android:textColor="#e4000000"
+            android:typeface="normal"
+            android:layout_alignTop="@+id/scroll"
+            android:layout_alignLeft="@+id/scroll"
+            android:paddingLeft="30dp" />
+    </ScrollView>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/home"
+        android:background="@drawable/home"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+
+</RelativeLayout>

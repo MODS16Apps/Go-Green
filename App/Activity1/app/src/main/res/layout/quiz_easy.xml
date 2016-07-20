@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1" android:background="@drawable/quiz">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView2"
+        android:layout_gravity="center_horizontal"
+        android:fillViewport="false">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textColor="#eee"
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:text="1. An average American throws away how much garbage in a single day?"
+                android:id="@+id/textView9"
+                android:layout_weight="0.12"
+                android:textStyle="bold|italic"
+                android:textSize="50dp" />
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    4.4 pounds"
+                android:id="@+id/c1"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    10.3 pounds"
+                android:id="@+id/radioButton21"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    1.7 pounds"
+                android:id="@+id/radioButton22"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    8.2 pounds"
+                android:id="@+id/radioButton23"
+                android:textSize="30dp"
+                android:checked="false"/>
+            </RadioGroup>
+
+            <TextView
+                android:textColor="#eee"
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:text="2. About how much of the trash in landfills could have actually been recycled?"
+                android:id="@+id/textView10"
+                android:layout_weight="0.12"
+                android:textStyle="bold|italic"
+                android:textSize="50dp" />
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    25%"
+                android:id="@+id/radioButton24"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    40%"
+                android:id="@+id/radioButton25"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    50%"
+                android:id="@+id/radioButton26"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    80%"
+                android:id="@+id/c2"
+                android:textSize="30dp"
+                android:checked="false"/>
+            </RadioGroup>
+
+            <TextView
+                android:textColor="#eee"
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:text="3. How long does it take for ONE glass bottle to decompose in a landfill?"
+                android:id="@+id/textView11"
+                android:layout_weight="0.12"
+                android:textStyle="bold|italic"
+                android:textSize="50dp" />
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    4000 years"
+                android:id="@+id/c3"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    400 days"
+                android:id="@+id/radioButton29"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    16 weeks"
+                android:id="@+id/radioButton30"
+                android:textSize="30dp"
+                android:checked="false" />
+
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    100 years"
+                android:id="@+id/radioButton31"
+                android:textSize="30dp"
+                android:checked="false"/>
+            </RadioGroup>
+
+
+            <TextView
+                android:textColor="#eee"
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:text="4. What is the most energy-efficient appliance in the average kitchen?"
+                android:id="@+id/textView13"
+                android:layout_weight="0.12"
+                android:textStyle="bold|italic"
+                android:textSize="50dp" />
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Microwave"
+                android:id="@+id/c4"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Toaster"
+                android:id="@+id/radioButton37"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Oven"
+                android:id="@+id/radioButton38"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Refrigerator"
+                android:id="@+id/radioButton39"
+                android:textSize="30dp"
+                android:checked="false"/>
+            </RadioGroup>
+
+            <TextView
+                android:textColor="#eee"
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:text="5. What is the primary cause of sea level rise?"
+                android:id="@+id/textView14"
+                android:layout_weight="0.12"
+                android:textStyle="bold|italic"
+                android:textSize="50dp" />
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Increase of fish population"
+                android:id="@+id/radioButton40"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Decrease in commercial fishing"
+                android:id="@+id/radioButton41"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    High tides from the moon's gravitational pull"
+                android:id="@+id/radioButton42"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Global warming causing thermal expansion and melting of ice caps"
+                android:id="@+id/c5"
+                android:textSize="30dp"
+                android:checked="false"/>
+            </RadioGroup>
+
+            <TextView
+                android:textColor="#eee"
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:text="6. Global warming is expected to decimate how many species on earth over the next forty years?"
+                android:id="@+id/textView15"
+                android:layout_weight="0.12"
+                android:textStyle="bold|italic"
+                android:textSize="50dp" />
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    20,000"
+                android:id="@+id/radioButton44"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    800,000"
+                android:id="@+id/radioButton45"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    1 million"
+                android:id="@+id/radioButton46"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    2.1 million"
+                android:id="@+id/c6"
+                android:textSize="30dp"
+                android:checked="false"/>
+            </RadioGroup>
+
+            <TextView
+                android:textColor="#eee"
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:text="7. Which activity generally uses the most amount of water?"
+                android:id="@+id/textView16"
+                android:layout_weight="0.12"
+                android:textStyle="bold|italic"
+                android:textSize="50dp" />
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Showering"
+                android:id="@+id/radioButton48"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Landscaping"
+                android:id="@+id/c7"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Washing dishes"
+                android:id="@+id/radioButton50"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Flushing the toilet"
+                android:id="@+id/radioButton51"
+                android:textSize="30dp"
+                android:checked="false"/>
+            </RadioGroup>
+
+            <TextView
+                android:textColor="#eee"
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:text="8. Which country produces the greatest amount of greenhouse gases?"
+                android:id="@+id/textView17"
+                android:layout_weight="0.12"
+                android:textStyle="bold|italic"
+                android:textSize="50dp" />
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    United States"
+                android:id="@+id/radioButton52"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    China"
+                android:id="@+id/c8"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    India"
+                android:id="@+id/radioButton54"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Great Britain"
+                android:id="@+id/radioButton55"
+                android:textSize="30dp"
+                android:checked="false"/>
+            </RadioGroup>
+
+            <TextView
+                android:textColor="#eee"
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:text="9. Which of the following uses the most energy while idle?"
+                android:id="@+id/textView18"
+                android:layout_weight="0.12"
+                android:textStyle="bold|italic"
+                android:textSize="50dp" />
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Laptop"
+                android:id="@+id/radioButton56"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Desktop Computer"
+                android:id="@+id/radioButton57"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Playstation 3"
+                android:id="@+id/c9"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Nintendo Wii"
+                android:id="@+id/radioButton59"
+                android:textSize="30dp"
+                android:checked="false"/>
+            </RadioGroup>
+
+            <TextView
+                android:textColor="#eee"
+                android:layout_width="565dp"
+                android:layout_height="wrap_content"
+                android:text="10. Which of the following is a greenhouse gas?"
+                android:id="@+id/textView20"
+                android:layout_weight="0.12"
+                android:textStyle="bold|italic"
+                android:textSize="50dp" />
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Water Vapor"
+                android:id="@+id/radioButton64"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Carbon Dioxide"
+                android:id="@+id/radioButton65"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="    Methane"
+                android:id="@+id/radioButton66"
+                android:textSize="30dp"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   All of the above"
+                android:id="@+id/c10"
+                android:textSize="30dp"
+                android:checked="false"/>
+            </RadioGroup>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Submit!"
+                android:id="@+id/submit"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

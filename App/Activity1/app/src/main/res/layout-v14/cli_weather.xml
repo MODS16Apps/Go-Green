@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/cliweather">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="400dp"
+        android:fillViewport="false"
+        android:id="@+id/scroll"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/editText6"
+            android:text="Now climate change is a change in overall climate patterns, so this not only means that some cold places get really warm, but also warm places can get really cold when the global temperature rises so quickly! It can also cause violent storms, droughts, heavy rain, and other forms of extreme weather.
+
+In some areas, climate change affects the entire ecosystem. For example, ice caps in the arctic are melting quicker than ever, and since the polar bears have nowhere else to go, they may soon die out. "
+            android:gravity="fill"
+            android:textSize="30dp"
+            android:background="#fff"
+            android:textColor="#e4000000"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" />
+    </ScrollView>
+
+    <Button
+        android:layout_width="315dp"
+        android:layout_height="100dp"
+        android:id="@+id/diagram_button"
+        android:background="@drawable/blank_button"
+        android:layout_alignBottom="@+id/space13"
+        android:layout_toLeftOf="@+id/space13"
+        android:text="Diagrams"
+        android:textSize="60dp" />
+
+    Button
+        android:layout_width="180dp"
+        android:layout_height="56dp"
+        android:id="@+id/back_button"
+        android:layout_marginLeft="66dp"
+        android:layout_alignTop="@+id/diagram_button"
+        android:layout_alignParentLeft="true"
+        android:background="#000faa09" />
+
+    <Button
+        android:layout_width="151dp"
+        android:layout_height="64dp"
+        android:id="@+id/button7"
+        android:layout_marginBottom="45dp"
+        android:layout_above="@+id/scroll"
+        android:layout_alignParentLeft="true"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="151dp"
+        android:layout_height="64dp"
+        android:id="@+id/button8"
+        android:layout_alignTop="@+id/button7"
+        android:layout_toRightOf="@+id/button7"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="151dp"
+        android:layout_height="64dp"
+        android:id="@+id/button9"
+        android:layout_alignTop="@+id/button10"
+        android:layout_alignParentRight="true"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="151dp"
+        android:layout_height="64dp"
+        android:id="@+id/button10"
+        android:layout_alignTop="@+id/button8"
+        android:layout_toLeftOf="@+id/button9"
+        android:background="#00000000" />
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/home"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/home"
+        android:layout_alignTop="@+id/diagram_button"
+        android:layout_toLeftOf="@+id/button8" />
+
+    <Space
+        android:layout_width="367dp"
+        android:layout_height="50dp"
+        android:id="@+id/space12"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/button8" />
+
+    <Space
+        android:layout_width="20dp"
+        android:layout_height="200dp"
+        android:id="@+id/space13"
+        android:layout_above="@+id/space12"
+        android:layout_alignRight="@+id/space12" />
+
+</RelativeLayout>

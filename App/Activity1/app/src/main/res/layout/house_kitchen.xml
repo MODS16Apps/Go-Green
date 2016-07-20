@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/kitchen">
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="85dp"
+        android:id="@+id/dishwasher"
+        android:layout_marginLeft="73dp"
+        android:layout_marginBottom="47dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="#000faa09" />
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="85dp"
+        android:id="@+id/sink"
+        android:layout_marginTop="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/dishwasher"
+        android:background="#000faa09" />
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="85dp"
+        android:id="@+id/fridge"
+        android:layout_marginRight="73dp"
+        android:background="#000faa09"
+        android:layout_alignTop="@+id/sink"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="95dp"
+        android:id="@+id/oven"
+        android:layout_marginRight="330dp"
+        android:layout_alignWithParentIfMissing="true"
+        android:background="#000faa09"
+        android:layout_alignTop="@+id/dishwasher"
+        android:layout_alignParentRight="true" />
+</RelativeLayout>

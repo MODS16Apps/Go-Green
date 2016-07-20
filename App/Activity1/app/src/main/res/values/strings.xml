@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "Hello, Android",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/eband3 for more book information.
+-->
+<resources>
+   <string name="app_name">Go Green</string>
+   <string name="main_title">Go Green</string>
+   <string name="info_label">Information</string>
+   <string name="game_label">Games</string>
+   <string name="Map">Map</string>
+   <string name="exit_label">Exit</string>
+    <string name="climate_change">Scientists always talk about global warming and climate
+        change, but what does it all really mean?  Global warming refers to the increase
+        of average temperature of the earth’s atmosphere, which is caused by something
+        known as the greenhouse effect. When the sun shines its rays on earth,
+        the surface emits radiation back into the space, but much of the energy
+        remains trapped in the atmosphere, causing the planet to heat up. As humans,
+        we need the earth to be warm in order to survive, but when the earth heats up
+        too quickly, the plant gets warmer than usual.</string>
+
+   <string name="settings_label">Settings...</string>
+    <string name="settings_title"></string>
+   <string name="creds">This app was created by Savannah Gross, Alissa Kushner,
+       and Sam Maldonado in collaboration with Dr. Ravi Shankar, Professor Francis McAfee,
+       Santiago Aguerrevere, and Demetrius Dukes from FAU. Special thanks to United Way for sponsorship
+       and The Museum of Discovery and Science, notably Summer Scarlatelli and Joe Cytacki who were responsible
+       for the success of the MODS App-titude Program.
+       Credits to sources:
+   Diagram 1
+Trenberth, K. E., J. T. Fasullo, and J. Kiehl, 2009: Earth\'s global energy budget (PDF). Bull. Amer. Meteor. Soc., 90, No. 3, 311-324, doi: 10.1175/2008BAMS2634.1.
+Diagram 2
+NASA, http://science-edu.larc.nasa.gov/energy_budget/
+       We also thank "Hello Android" for their open source code that was used as a template for our application.
+   </string>
+   <string name="settings_shortcut">s</string>
+   <string name="music_title">Music</string>
+   <string name="music_summary">Play background music</string>
+   <string name="hints_title">Hints</string>
+   <string name="hints_summary">Show hints during play</string>
+
+   <string name="new_game_title">Difficulty</string>
+   <string name="easy_label">Easy</string>
+   <string name="medium_label">Medium</string>
+   <string name="hard_label">Hard</string>
+
+    <string name="go_green">Go Green</string>
+    <string name="storm">Storm Center</string>
+    <string name="pu">Powerful You</string>
+    <string name="eng_eff_button">Energy Efficiency</string>
+    <string name="Trip">TRIP the Robot</string>
+    <string name="tips">Tips and Tricks</string>
+    <string name="rec">Recycling in MODS</string>
+    <string name="Information">Information</string>
+    <string name="back_button"><b>Back</b></string>
+    <string name="eng_eff_text">
+        \n-A playstation uses more energy than a refrigerator\n
+        -America burns nearly half of the world’s gasoline\n
+        -The World Coal Institute says that, at current production levels, proven coal
+        reserves are estimated to last 147 years. That means no more coal after 2155.\n
+
+    <i>So how do we fix this?</i>\n
+    -Researchers suggest that if developers had to prepay 50 years worth of utility bills,
+        buildings would be constructed so that they waste less energy. \n
+    -UNPLUG YOUR DEVICES WHEN THEY AREN\’T BEING USED!!!!
+</string>
+    <string name="trip_lyrics">Whatcha gonna do\n
+R-E-C-Y-C-L-E\n\n
+
+Hey! Alright Whatcha gonna do\n
+With those bottles and jars\n
+Whatcha gonna do\n
+With aluminum cans\n
+Put your hands up\n
+Pots and pans\n
+I said whatcha gonna do\n
+Whatcha gonna do\n
+Before it all comes down\n
+R-E-C-Y-C-L-E 2x\n\n
+
+Whatcha gonna do\n
+With those things you don\’t use\n
+Pots and pans and all the goofballs too\n
+I said whatcha gonna go\n
+With that worn down tire\n
+We’re so close who knows even copper wire\n
+I said whatcha gonna do\n
+Whatcha gunna do to help me and you\n\n
+
+Whatcha gonna do with just me and you\n\n
+
+R-E-C-Y-C-L-E 2x\n\n
+
+HEY!\n
+Whatcha gonna do\n
+With those clothes you don\’t need\n
+Wive it to institutions, associations, salvation army\n
+I said whatcha gonna do with mama\’s high heel shoes\n
+And anything else you got that she don\’t use\n
+I said whacha gonna do\n
+Whacha gonna do\n\n
+
+Give me an r..e..c..y..c..l..e..\n
+Gimme an “R”\n
+-R!\n
+Gimme an “E”\n
+-E!\n
+Gimme a “C”\n
+-C!\n
+Gimme a “Y”\n
+-Y!\n
+Gimme a “C-L-E”\n
+-C-L-E!\n
+R-E-C-Y-C-L-E 13x\n "
+</string>
+
+    <string name="rec_at_mods">
+       <i> Recycling involves using old things and turning them into new, useful items.</i>
+
+        The signature recycle symbol stands for the three main steps of the recycling process:
+        collection of materials, manufacture into new items, and purchase of the finished products.
+        Making products from old and recycled materials saves money,
+        energy and much of Earth\'s natural resources, which is great for the environment.
+
+
+
+\n\n<i>If it\'s so great, then why are there no recycling bins in MODS?</i>
+
+The City of Fort Lauderdale waste services sorts through all the trash to find
+        recyclables as an automatic and free service to all residents. Companies such as
+        Republic Services, the sponsor of this Go Green exhibit, help the world by recycling what we forget to.\n
+
+In your own home, it\'s good to do your part in making sure you reduce, reuse, and recycle
+    as much as you can! Doing these simple things is important for making our environment a healthier place.
+    See the next page to find out about all the things you can recycle!
+    </string>
+
+    <string name="no_rec_bins">\t\t\tWhy Are There No\n Recycling Bins In MODS?</string>
+
+    <string name="trip_about">
+        \nMeet Harry, a fully-animated robot, who spends his days rapping
+        about recycling and encouraging visitors to Go Green!\n\n
+
+Harry the Heap is made completely of reused items!
+        With bowls for ears and plastic bottles for arms, Harry is here to help you learn
+        how to reuse and recycle items around your house.
+    </string>
+    <string name="info_popUp">Information about going green:</string>
+    <string name="test">What do you want a map of?</string>
+   <string name="exit">To exit game\nat any time,\ntype "home" and\nsubmit</string>
+   <string name="about_text">\
+<b>Go Green is an...</b>
+</string>
+</resources>

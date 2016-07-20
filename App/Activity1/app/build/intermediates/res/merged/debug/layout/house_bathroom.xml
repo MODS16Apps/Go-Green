@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootRL"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bathroom">
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="85dp"
+        android:id="@+id/sink_button"
+        android:background="#00e5e2e4"
+        android:layout_alignParentRight="false"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="835dp" />
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="85dp"
+        android:id="@+id/shower_button"
+        android:background="#00e5e2e4"
+        android:layout_marginLeft="32dp"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentEnd="false"
+        android:layout_marginTop="145dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="80dp"
+        android:id="@+id/toilet_button"
+        android:clickable="false"
+        android:background="#00e5e2e4"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="560dp" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="#0000"
+        android:id="@+id/back"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/shower_button"
+        android:layout_marginLeft="186dp"
+        android:layout_alignTop="@+id/shower_button" />
+
+</RelativeLayout>
