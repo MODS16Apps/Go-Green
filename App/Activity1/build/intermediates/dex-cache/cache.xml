@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/Users/katieswerdloff/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="/Users/sergioramirez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_baecc5ed9049e70203bc6a31463d93626d135caa.jar" />
+        <dex dex="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_cffebef0b2e21667ef8c0468fb081497ff3c3a54.jar" />
     </item>
     <item
-        jar="/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
-        <dex dex="/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_f9373ae0f98548c9c9a8a702c62b98b34da22ab8.jar" />
-    </item>
-    <item
-        jar="/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_dd2a7229375122bf2376c6dc30ea192006f43175.jar" />
-    </item>
-    <item
-        jar="/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jar="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_4f623ec44903b86fdaf5e5c2217d5581d7f5c4e4.jar" />
+        <dex dex="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_b37d105d9f53eb0eb39a05a77dc7b2972ca66edd.jar" />
     </item>
     <item
-        jar="/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jar="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_da50d665cf17fe118669e441372d94fac44cd529.jar" />
+    </item>
+    <item
+        jar="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_6fe9006864f20b5a5a9bb3712e744f0c1e95b6b9.jar" />
+        <dex dex="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_ee06accf9d89ede030c734606f590fe87aa90954.jar" />
+    </item>
+    <item
+        jar="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_9a0ca8cd6e75ae55565954a463bdba7cb9c975e9.jar" />
     </item>
 
 </items>

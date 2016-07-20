@@ -4,10 +4,6 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout-v14/cli_weather.xml"
     },
     {
-        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout-v14/initial_page.xml",
-        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout-v14/initial_page.xml"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout-v14/cli_about.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout-v14/cli_about.xml"
     },
@@ -28,25 +24,12 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout-v14/initial_page.xml"
     },
     {
-<<<<<<< Updated upstream
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout-v14/climate_change_map.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout-v14/climate_change_map.xml"
-=======
-        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout-v14/cli_weather.xml",
-        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout-v14/cli_weather.xml"
->>>>>>> Stashed changes
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout-v14/cli_about.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout-v14/cli_about.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout-v14/initial_page.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout-v14/initial_page.xml"
-    },
-    {
-        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout-v14/main.xml",
-        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout-v14/main.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout-v14/main.xml",
@@ -61,20 +44,8 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout-v14/about1.xml"
     },
     {
-        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout-v14/cli_greenhouse.xml",
-        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout-v14/cli_greenhouse.xml"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout-v14/cli_greenhouse.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout-v14/cli_greenhouse.xml"
-    },
-    {
-        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout-v14/cli_about.xml",
-        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout-v14/cli_about.xml"
-    },
-    {
-        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout-v14/cli_water.xml",
-        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout-v14/cli_water.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout-v14/cli_greenhouse.xml",
@@ -83,9 +54,5 @@
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout-v14/cli_weather.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout-v14/cli_weather.xml"
-    },
-    {
-        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout-v14/about1.xml",
-        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout-v14/about1.xml"
     }
 ]
