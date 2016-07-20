@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable/infotabu.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable/infotabu.png"
+    },
+    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable/infotabu.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable/infotabu.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable/blank_page.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable/blank_page.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable/blank_page.png",
@@ -24,11 +32,19 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable/credits.png"
     },
     {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable/credits.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable/credits.png"
+    },
+    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable/homepgu.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable/homepgu.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable/blank_page.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable/blank_page.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable/homepgu.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable/homepgu.png"
     }
 ]

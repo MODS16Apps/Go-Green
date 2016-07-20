@@ -4,6 +4,10 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
     },
     {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_full_open_on_phone.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
     }

@@ -4,6 +4,10 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/outside.xml"
     },
     {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/cli_water.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/cli_water.xml"
+    },
+    {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/climate_change_map.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/climate_change_map.xml"
     },
@@ -12,6 +16,7 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/energyefficent.xml"
     },
     {
+<<<<<<< Updated upstream
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/cli_about.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/cli_about.xml"
     },
@@ -32,12 +37,30 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/credits.xml"
     },
     {
+=======
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/initial_page.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/initial_page.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/rec_at_mods.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/rec_at_mods.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/credits.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/credits.xml"
+    },
+    {
+>>>>>>> Stashed changes
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/house_bedroom.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/house_bedroom.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/trip_lyrics.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/trip_lyrics.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/cli_about.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/cli_about.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/climate2.xml",
@@ -48,24 +71,16 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/cli_greenhouse.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/house_bedroom.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/house_bedroom.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/main1.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/main1.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/climate_change_map.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/climate_change_map.xml"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/hangman_play2.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/hangman_play2.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/hangman_start.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/hangman_start.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/rec_phone.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/rec_phone.xml"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/rec_phone.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/rec_phone.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/house_garage.xml",
@@ -74,10 +89,6 @@
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/rec_socks.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/rec_socks.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/hangman_start.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/hangman_start.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/tip.xml",
@@ -90,10 +101,6 @@
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/rec_paper.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/rec_paper.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/cli_water.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/cli_water.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/in_garage.xml",
@@ -112,6 +119,10 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/rec_socks.xml"
     },
     {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/main.xml"
+    },
+    {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/house_kitchen.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/house_kitchen.xml"
     },
@@ -122,10 +133,6 @@
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/trip_lyrics.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/trip_lyrics.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/in_garage.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/in_garage.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/recycling_more.xml",
@@ -140,24 +147,16 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/credits.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/main.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/house_bathroom.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/house_bathroom.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/quiz_easy.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/quiz_easy.xml"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/rec_cardboard.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/rec_cardboard.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/energyefficent.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/energyefficent.xml"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/house.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/house.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/rec_can.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/rec_can.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/informationnew.xml",
@@ -168,60 +167,44 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/house_kitchen.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/house.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/house.xml"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/rec_at_mods.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/rec_at_mods.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/house.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/house.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/trip_materials.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/trip_materials.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/quiz_easy.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/quiz_easy.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/hangman_play2.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/hangman_play2.xml"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/cli_weather.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/cli_weather.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/main.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/main.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/about1.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/about1.xml"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/waste.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/waste.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/hangman_play.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/hangman_play.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/main1.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/main1.xml"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/my_homepage.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/my_homepage.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/quiz_answers.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/quiz_answers.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/waste.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/waste.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/waste.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/waste.xml"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/tip.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/tip.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/recycling_more.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/recycling_more.xml"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/cli_greenhouse.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/cli_greenhouse.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/about1.xml",
@@ -232,8 +215,212 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/hangman_play2.xml"
     },
     {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/house_garage.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/house_garage.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/outside.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/outside.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/about1.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/about1.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/house_bathroom.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/house_bathroom.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/cli_about.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/cli_about.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/trip_materials.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/trip_materials.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/hangman.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/hangman.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/cli_about.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/cli_about.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/initial_page.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/initial_page.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/informationnew.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/informationnew.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/recycling_more.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/recycling_more.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/house_bedroom.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/house_bedroom.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/main1.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/main1.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/trip_materials.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/trip_materials.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/energyefficent.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/energyefficent.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/climate_change_map.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/climate_change_map.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/rec_phone.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/rec_phone.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/rec_paper.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/rec_paper.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/rec_socks.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/rec_socks.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/hangman_start.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/hangman_start.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/main1.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/main1.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/cli_water.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/cli_water.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/house_bathroom.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/house_bathroom.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/rec_cardboard.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/rec_cardboard.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/house_bedroom.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/house_bedroom.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/in_garage.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/in_garage.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/hangman_play.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/hangman_play.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/house_bathroom.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/house_bathroom.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/house_garage.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/house_garage.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/credits.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/credits.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/quiz_easy.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/quiz_easy.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/my_homepage.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/my_homepage.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/energyefficent.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/energyefficent.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/informationnew.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/informationnew.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/hangman_start.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/hangman_start.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/in_garage.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/in_garage.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/house.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/house.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/trip_materials.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/trip_materials.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/trip_lyrics.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/trip_lyrics.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/quiz_easy.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/quiz_easy.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/hangman_play2.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/hangman_play2.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/outside.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/outside.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/quiz_easy.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/quiz_easy.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/climate_change_map.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/climate_change_map.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/about1.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/about1.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/main1.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/main1.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/quiz_answers.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/quiz_answers.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/waste.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/waste.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/recycling_more.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/recycling_more.xml"
+    },
+    {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/cli_weather.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/cli_weather.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/quiz_answers.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/quiz_answers.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/cli_water.xml",
@@ -248,24 +435,12 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/rec_cardboard.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/house_garage.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/house_garage.xml"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/rec_can.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/rec_can.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/rec_phone.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/rec_phone.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/outside.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/outside.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/house_bathroom.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/house_bathroom.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/cli_greenhouse.xml",
@@ -288,27 +463,31 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/hangman.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/trip.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/trip.xml"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/climate2.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/climate2.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/cli_about.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/cli_about.xml"
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/trip.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/trip.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/trip.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/trip.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/trip_materials.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/trip_materials.xml"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/hangman.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/hangman.xml"
     },
     {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/house_kitchen.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/house_kitchen.xml"
+    },
+    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/initial_page.xml",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/initial_page.xml"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/trip.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout/trip.xml"
     }
 ]

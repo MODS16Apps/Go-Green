@@ -15,7 +15,7 @@
     </array>
     <array name="car">
         <item>"Use carpooling (if you take i-95 on your way to the museum, you can drive in the diamond lane)"
-            " or public transit to help save hundreds of tons of carbon emmsions from entering our atmosphere "
+            " or public transit to help save hundreds of tons of carbon emissions from entering our atmosphere "
             "yearly.\n\nDrive at the speed limit! All vehicles lose fuel economy at speeds above 55 miles per hour. "
             "And driving 65 instead of 75 reduces fuel cost 13%"</item>
     </array>
@@ -24,9 +24,9 @@
     </array>
     <array name="line">
         <item>"Save energy by hanging your clothes to dry instead of using a dryer."
-           "Simply letting your clothes dry for a few hours before tossing them in"
-           " the dryer makes the dryer more efficient and waste less energy."
-            </item>
+            "Simply letting your clothes dry for a few hours before tossing them in"
+            " the dryer makes the dryer more efficient and waste less energy."
+        </item>
     </array>
     <array name="bins">
         <item>"Make sure you recycle only what you can!"</item>
@@ -43,12 +43,12 @@
     </array>
     <array name="light">
         <item>"Using the ENERGY STAR Certified Light Bulbs (the twisty ones) takes 70-90% less energy than"
-           " traditional incandescent bulbs. They last 10 to 25 times longer and save $30 to $80 in electricity"
-           " costs over their lifetime."</item>
+            " traditional incandescent bulbs. They last 10 to 25 times longer and save $30 to $80 in electricity"
+            " costs over their lifetime."</item>
     </array>
     <array name="temp">
         <item>"In the winter, put on more layers instead of turning up the heat!"
-             " And in the summer, open windows instead up turning on the AC."</item>
+            " And in the summer, open windows instead up turning on the AC."</item>
     </array>
     <array name="toilet">
         <item>"The average persons use 2.8 miles of toilet paper in a year"</item>
@@ -68,7 +68,7 @@
     </array>
     <array name="oven">
         <item>"Keep door closed while cooking, temperature can drop as many as 25"
-           " degrees each time you open the door"</item>
+            " degrees each time you open the door"</item>
     </array>
     <array name="fridge">
         <item>"Dust your fridge to clean the coil behind"
@@ -76,7 +76,7 @@
     </array>
     <array name="x">
         <item>"By painting your roof white instead of keeping it dark colored, it won’t "
-            "get as hot in the summer, which means your AC doesn’t have to work as hard"</item>
+            "get as hot in the summer, which means your AC does not have to work as hard"</item>
     </array>
     <array name="check">
         <item>"Installing solar panels will not only cut your electricity bill costs, but also "
@@ -97,81 +97,74 @@
             "Rechargeable Batteries, audio and video tapes, computer equipment, monitors,"
             "CDs, cell phones, and toner cartridges can all be sent to a local recycling facility.\n"
             "About 85% of electronics are discarded in landfills or incinerators, and about 5"
-            "million devices gather dust in storage. When these aren’t recycled, hazardous waste can seep into "
+            "million devices gather dust in storage. When these are not recycled, hazardous waste can seep into "
             "groundwater and cause serious pollution and health risks"</item>
     </array>
     <array name="socks">
         <item>"Grew out of your old clothes? Deliver them to a local charity or thrift store."</item>
     </array>
      <array name="cans"> 
-        <item>"Aluminum cans can take anywhere between 200 to 500 years to decompose in a landfill. Did you know that making new aluminum cans from recycled cans takes 95% less energy than creating the same amount with aluminum oxides "</item> 
-    </array>
+    <item>"Aluminum cans can take anywhere between 200 to 500 years to decompose in a landfill. Did you know that making new aluminum cans from recycled cans takes 95% less energy than creating the same amount with aluminum oxides?"</item> 
+</array>
      <array name="paper_bag"> 
-        <item>"Paper bags only take 1 month to decompose! Consider taking your lunch in a paper bag made with recyled paper instead of a plastic bag!"</item>
+    <item>"Paper bags only take 1 month to decompose! Consider taking your lunch in a paper bag made with recycled paper instead of a plastic bag!"</item>
      </array>
      <array name="plastic_bottle">
-         <item>"Plastic bottles take 450 years to decompose! Make sure to throw them in your recyling bin or send them back to the manufacturer for a 5¢ reward! "</item> 
-    </array> 
+     <item>"Plastic bottles take 450 years to decompose! Make sure to throw them in your recycling bin or send them back to the manufacturer for a 5¢ reward! "</item> 
+</array> 
     <array name="plastic_wrap">
-         <item>"Aluminum foil takes 400 years to decay! The average american throws out about three pounds of aluminum foil each year where it releases toxic metals and gas into the atmosphere. Few people know that clean aluminum foil can easily be recyled along with aluminum cans! "</item>
+         <item>"Aluminum foil takes 400 years to decay! The average american sends about three pounds of aluminum foil each year to the landfill where it releases toxic metals and gas into the atmosphere. Few people know that clean aluminum foil can easily be recycled along with aluminum cans! "</item>
          </array>
      <array name="banana"> 
-        <item>"Banana peels and other fruit peels take only 2 to 5 weeks to decompose!"</item> 
-    </array>
-     <array name="apple"> <item>"An apple core takes up to 2 months to decay."</item>
+    <item>"Banana peels and other fruit peels take only 2 to 5 weeks to decompose!"</item> 
+</array>
+     <array name="apple"> <item>"An apple core can take up to 2 months to decompose."</item>
      </array>
      <array name="glass_bottle">
-         <item>"If a Neanderthal had dropped a glass bottle in the park in front of MODS it would still be there today! This is because glass bottles take 1 million years to decay!"</item>
+     <item>"If a Neanderthal had dropped a glass bottle in the park in front of MODS it would still be there today! This is because glass bottles take 1 million years to decay!"</item>
      </array>
      <array name="plastic_bag">
-         <item>"Plastic bags take between 10 and 20 years to decompose. Make sure you bring your own bags to the grocery store or return used bags to the store for reuse!"</item>
+     <item>"Plastic bags take between 10 and 20 years to decompose. Make sure you bring your own bags to the grocery store or return used bags to the store for reuse!"</item>
      </array> 
     <array name="gum">
-         <item>"Chewing gum is not bidegradable because the base is made of a type of plastic. However, it can be digested by stomach acids in a few hours! "</item>
+         <item>"Chewing gum is not biodegradable because the base is made of a type of plastic. However, it can be digested by stomach acids in a few hours! "</item>
          </array>
     <array name="decay_explain">
         <item>"Click on each piece of trash to learn more about how long each takes to decay, and how you should properly dispose of it!</item>
     </array>
      <array name="australia"> 
-    <item>"<b>"Australia"</b>\n-Signed Kyoto protocol where they agreed to hold the growth in its greenhouse gas emissions to 8 percent above 1990 levels for the 2008-2012 period. By and large, Australia has met those targets, mostly by reducing deforestation and land clearing.\n-Use carbon trading plan, which makes Australia’s top 500 worst polluters pay a tax on every ton of carbon emitted. Currently trying to switch to full on, market-based carbon trading system."</item> 
+    <item>"<b>"Australia"</b>\n Australia has been implementing many initiatives to combat climate change. This began when they signed onto the Kyoto Protocol, an international treaty wherein countries commit to reduce greenhouse gas emissions.  Australia specifically aimed to not exceed their emissions above 8 percent for the time period of 2008 to 2012. In order to do this, the Australian government has limited the amount of deforestation and land clearing, as well as implementing a carbon trading plan. This plan requires the top 500 polluters in Australia to pay a tax per ton of carbon. A full market-based carbon trading system is in progress.
+        "</item> 
 </array>
      <array name="brazil"> 
-    <item>"<b>"Brazil"</b>"</item>
+    <item>"<b>"Brazil"</b>"\n-</item>
      </array>
-    <array name="canada">
-        <item><b>Canada</b></item>
-    </array>
      <array name="china">
-     <item>"<b>"China"</b>"</item> 
+     <item>"<b>"China"</b>"\n-</item> 
 </array> 
     <array name="eu">
-         <item>"<b>"The European Union"</b>"</item>
+         <item>"<b>"The European Union"</b>"\n-</item>
          </array>
      <array name="india"> 
-    <item>"<b>"India"</b>"</item> 
+    <item>"<b>"India"</b>"\n-</item> 
 </array>
      <array name="indonesia"> 
-    <item>"<b>"Indonesia"</b>"</item>
+    <item>"<b>"Indonesia"</b>"\n-</item>
      </array>
      <array name="japan">
-     <item>"<b>"Japan"</b>"</item>
+     <item>"<b>"Japan"</b>"\n-</item>
      </array>
      <array name="russia">
-     <item>"<b>"Russia"</b>"</item>
+     <item>"<b>"Russia"</b>"\n-</item>
      </array> 
     <array name="usa">
-         <item>"<b>"The United States</b>"</item>
+         <item>"<b>"The United States and Canada</b>"\n-</item>
          </array>
     <array name="south_africa">
-        <item><b>South Africa</b></item>
-         </array>
-    <array name="un">
-        <item><b>The United Nations</b></item>
+         <item>"<b>"South Africa</b>"\n-</item>
          </array>
     <array name="map_explain">
-        <item><b><i>Click on each dot across the map to learn more about how these countries or regions are battling climate change!</i></b></item>
-        <item>\n</item>
-        <item>---------------------------------------------------------------------------------------------\n| Click<b> HERE</b> if you do not want to see this message again. |\n---------------------------------------------------------------------------------------------</item>
+        <item>"Click on each dot across the map to learn more about the way this country or region is battling climate change!"</item>
     </array>
     <array name="test">
         <item></item>

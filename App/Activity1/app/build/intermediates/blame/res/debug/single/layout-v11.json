@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout-v11/initial_page.xml",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/layout-v11/initial_page.xml"
+    },
+    {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout-v11/initial_page.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout-v11/initial_page.xml"
     },

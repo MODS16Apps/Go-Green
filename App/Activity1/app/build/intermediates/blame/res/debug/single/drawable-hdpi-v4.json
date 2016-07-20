@@ -1,15 +1,20 @@
 [
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang4.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/hang4.png"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/box.png",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/box.png"
     },
     {
+<<<<<<< Updated upstream
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/home.png"
+=======
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_page.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/info_page.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mods.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/mods.png"
+>>>>>>> Stashed changes
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_page.png",
@@ -24,6 +29,10 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/outside.png"
     },
     {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/livingroom.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/livingroom.png"
+    },
+    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/blank_homepg.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/blank_homepg.png"
     },
@@ -36,10 +45,13 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/recycling.png"
     },
     {
+<<<<<<< Updated upstream
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliabout.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cliabout.png"
     },
     {
+=======
+>>>>>>> Stashed changes
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang1.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang1.png"
     },
@@ -52,20 +64,28 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/outside_house.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang5.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/hang5.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang6.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang6.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/harry.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/harry.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/homebw.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/homebw.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang5.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/hang5.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cardboard.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cardboard.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/heap.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/heap.png"
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/harry.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/harry.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climate_d2.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/climate_d2.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliwater.png",
@@ -76,12 +96,8 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/blank_homepg.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cligreen.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/cligreen.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mods_map.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/mods_map.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliwater.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cliwater.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bathroom.png",
@@ -92,48 +108,36 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/doors.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliweather.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/cliweather.png"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/harry_about.png",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/harry_about.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climate_homepage.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/climate_homepage.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bathroom.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/bathroom.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang6.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/hang6.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/floor2.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/floor2.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cligreen.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cligreen.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang4.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang4.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang3.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang3.png"
     },
     {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottle.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/bottle.png"
+    },
+    {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gogreenex.jpg",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/gogreenex.jpg"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_ic_googleplayservices.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_ic_googleplayservices.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/homew.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/homew.png"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang3.png",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/hang3.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hangmanstart.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hangmanstart.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang1.png",
@@ -142,6 +146,10 @@
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quiz_homepg.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/quiz_homepg.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/housegame.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/housegame.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/world2.png",
@@ -156,32 +164,20 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/home.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_full_open_on_phone.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_full_open_on_phone.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climate_homepage.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/climate_homepage.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/blank_homepg.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/blank_homepg.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang7.png",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/hang7.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/world2.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/world2.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climate_homepage.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/climate_homepage.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mods_map.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/mods_map.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climate_d2.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/climate_d2.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recyclepg.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/recyclepg.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/outside_house.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/outside_house.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/socks.png",
@@ -196,24 +192,8 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/climate_d2.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/infouu.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/infouu.png"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recycling.png",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/recycling.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/infouu.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/infouu.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trip.jpg",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/trip.jpg"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_ic_googleplayservices.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_ic_googleplayservices.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/iconnn.png",
@@ -224,32 +204,28 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/icon.jpeg"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/phone.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/phone.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/homebw.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/homebw.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang2.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang2.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang2.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang2.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/garage.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/garage.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hangmanstart.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/hangmanstart.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_page.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/info_page.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/plain_background.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/plain_background.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/socks.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/socks.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottle.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/bottle.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/plain_background.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/plain_background.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cardboard.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cardboard.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/heap.png",
@@ -260,28 +236,16 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/quiz_homepg.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climatedia.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/climatedia.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/blank_button.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/blank_button.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/iconnn.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/iconnn.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quiz.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/quiz.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/house.jpg",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/house.jpg"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/livingroom.png",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/livingroom.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/floor_two.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/floor_two.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
@@ -296,28 +260,28 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/box.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/infou.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/infou.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/doors.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/doors.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang6.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang6.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hangmanstart.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hangmanstart.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gogreenex.jpg",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/gogreenex.jpg"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/kitchen.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/kitchen.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang1.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang1.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trip.jpg",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/trip.jpg"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliwater.png",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/cliwater.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliabout.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/cliabout.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/doors.png",
@@ -328,12 +292,8 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/icon.jpeg"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stationery.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/stationery.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/greenhouse.jpg",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/greenhouse.jpg"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recycling.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/recycling.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mods.png",
@@ -352,28 +312,24 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/housegame.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/harry_about.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/harry_about.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/outside.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/outside.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/socks.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/socks.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/house.jpg",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/house.jpg"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/iconnn.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/iconnn.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_full_open_on_phone.png",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_full_open_on_phone.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bathroom.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/bathroom.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/kitchen.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/kitchen.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quiz.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/quiz.png"
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bathroom.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/bathroom.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climatedia.png",
@@ -384,60 +340,52 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/house.jpg"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/livingroom.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/livingroom.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_blank.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/info_blank.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/garage.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/garage.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/housegame.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/housegame.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_unblurred.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/info_unblurred.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_full_open_on_phone.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climate_d1.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/climate_d1.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/homew.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/homew.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/outside_house.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/outside_house.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/infou.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/infou.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_ic_googleplayservices.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/kitchen.png",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/kitchen.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/outside.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/outside.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/box.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/box.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stationery.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/stationery.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/homepgu.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/homepgu.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_page.png",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/info_page.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mods.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/mods.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quiz_homepg.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/quiz_homepg.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/greenhouse.jpg",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/greenhouse.jpg"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/infouu.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/infouu.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mods.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/mods.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/phone.png",
@@ -452,12 +400,12 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/floor2.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang2.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/hang2.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_unblurred.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/info_unblurred.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/plain_background.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/plain_background.png"
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang2.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/hang2.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/floor2.png",
@@ -468,16 +416,16 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/floor_two.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recyclepg.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/recyclepg.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gogreenex.jpg",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/gogreenex.jpg"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/homepgu.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/homepgu.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliabout.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cliabout.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/harry_songs.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/harry_songs.png"
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/homew.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/homew.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/harry_songs.png",
@@ -492,6 +440,338 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang4.png"
     },
     {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climate_d1.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/climate_d1.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliweather.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cliweather.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/harry_about.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/harry_about.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang4.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/hang4.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/infou.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/infou.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliabout.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cliabout.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climate_d1.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/climate_d1.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliweather.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cliweather.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quiz.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/quiz.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/heap.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/heap.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cligreen.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/cligreen.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mods_map.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/mods_map.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliweather.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/cliweather.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climate_homepage.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/climate_homepage.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang6.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/hang6.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cligreen.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cligreen.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang7.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang7.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/homew.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/homew.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hangmanstart.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hangmanstart.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recyclepg.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/recyclepg.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climate_homepage.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/climate_homepage.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/world2.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/world2.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mods_map.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/mods_map.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climate_d2.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/climate_d2.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recyclepg.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/recyclepg.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_blank.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/info_blank.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/infouu.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/infouu.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/infouu.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/infouu.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trip.jpg",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/trip.jpg"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/phone.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/phone.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/homebw.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/homebw.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang2.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang2.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang5.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang5.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hangmanstart.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/hangmanstart.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/plain_background.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/plain_background.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottle.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/bottle.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/harry.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/harry.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climatedia.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/climatedia.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/iconnn.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/iconnn.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/greenhouse.jpg",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/greenhouse.jpg"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quiz.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/quiz.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/floor_two.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/floor_two.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/infou.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/infou.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang6.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang6.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/kitchen.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/kitchen.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cligreen.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cligreen.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliabout.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/cliabout.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mods_map.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/mods_map.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stationery.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/stationery.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climatedia.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/climatedia.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/greenhouse.jpg",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/greenhouse.jpg"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/harry_songs.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/harry_songs.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/harry_about.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/harry_about.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/house.jpg",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/house.jpg"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/socks.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/socks.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/phone.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/phone.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.jpeg",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/icon.jpeg"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quiz.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/quiz.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/livingroom.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/livingroom.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_blank.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/info_blank.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_unblurred.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/info_unblurred.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/homew.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/homew.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/outside_house.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/outside_house.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stationery.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/stationery.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/infou.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/infou.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/outside.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/outside.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stationery.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/stationery.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/floor_two.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/floor_two.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/greenhouse.jpg",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/greenhouse.jpg"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang3.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang3.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/world2.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/world2.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/plain_background.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/plain_background.png"
+    },
+    {
+        "merged": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/heap.png",
+        "source": "/Users/katieswerdloff/GitHub/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/heap.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recyclepg.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/recyclepg.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/homepgu.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/homepgu.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/harry_songs.png",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/harry_songs.png"
+    },
+    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang7.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang7.png"
     },
@@ -500,15 +780,7 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/info_blank.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/climate_d1.png",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/climate_d1.png"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/blank_button.png",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/blank_button.png"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliweather.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cliweather.png"
     }
 ]
