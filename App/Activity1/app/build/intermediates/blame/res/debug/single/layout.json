@@ -12,24 +12,24 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/energyefficent.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/informationnew.xml",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/informationnew.xml"
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/cli_about.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/cli_about.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/initial_page.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/initial_page.xml"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/cli_about.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/cli_about.xml"
-    },
-    {
-        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/credits.xml",
-        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/credits.xml"
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/informationnew.xml",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout/informationnew.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/rec_at_mods.xml",
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/rec_at_mods.xml"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/layout/credits.xml",
+        "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/layout/credits.xml"
     },
     {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/layout/house_bedroom.xml",

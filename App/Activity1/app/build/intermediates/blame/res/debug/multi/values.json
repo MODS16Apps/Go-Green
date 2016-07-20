@@ -87,20 +87,28 @@
                     "startOffset": 1507,
                     "endLine": 22,
                     "endColumn": 12,
-                    "endOffset": 1785
+                    "endOffset": 1576
                 },
                 "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 8431,
+                        "endLine": 142,
+                        "endColumn": 12,
+                        "endOffset": 8500
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1790,
-                    "endLine": 28,
+                    "startOffset": 1581,
+                    "endLine": 25,
                     "endColumn": 12,
-                    "endOffset": 2234
+                    "endOffset": 1859
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -108,12 +116,12 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2239,
+                    "startOffset": 1864,
                     "endLine": 31,
                     "endColumn": 12,
-                    "endOffset": 2376
+                    "endOffset": 2308
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -123,10 +131,10 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2381,
-                    "endLine": 35,
+                    "startOffset": 2313,
+                    "endLine": 34,
                     "endColumn": 12,
-                    "endOffset": 2554
+                    "endOffset": 2450
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -134,12 +142,12 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2559,
+                    "startOffset": 2455,
                     "endLine": 38,
-                    "endColumn": 8,
-                    "endOffset": 2624
+                    "endColumn": 12,
+                    "endOffset": 2628
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -149,10 +157,10 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2629,
+                    "startOffset": 2633,
                     "endLine": 41,
-                    "endColumn": 12,
-                    "endOffset": 2814
+                    "endColumn": 8,
+                    "endOffset": 2698
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -162,10 +170,10 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2819,
+                    "startOffset": 2703,
                     "endLine": 44,
                     "endColumn": 12,
-                    "endOffset": 2958
+                    "endOffset": 2888
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -175,10 +183,10 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 2963,
+                    "startOffset": 2893,
                     "endLine": 47,
                     "endColumn": 12,
-                    "endOffset": 3085
+                    "endOffset": 3032
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -188,10 +196,10 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3090,
+                    "startOffset": 3037,
                     "endLine": 50,
-                    "endColumn": 17,
-                    "endOffset": 3177
+                    "endColumn": 12,
+                    "endOffset": 3159
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -201,10 +209,10 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3182,
-                    "endLine": 54,
-                    "endColumn": 12,
-                    "endOffset": 3349
+                    "startOffset": 3164,
+                    "endLine": 53,
+                    "endColumn": 17,
+                    "endOffset": 3251
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -212,12 +220,12 @@
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 3354,
-                    "endLine": 58,
+                    "startOffset": 3256,
+                    "endLine": 57,
                     "endColumn": 12,
-                    "endOffset": 3453
+                    "endOffset": 3423
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -225,12 +233,12 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 3458,
+                    "startOffset": 3428,
                     "endLine": 61,
-                    "endColumn": 13,
-                    "endOffset": 3688
+                    "endColumn": 12,
+                    "endOffset": 3527
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -240,10 +248,10 @@
                 "to": {
                     "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 3693,
+                    "startOffset": 3532,
                     "endLine": 64,
-                    "endColumn": 17,
-                    "endOffset": 3894
+                    "endColumn": 13,
+                    "endOffset": 3762
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -253,10 +261,10 @@
                 "to": {
                     "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 3899,
+                    "startOffset": 3767,
                     "endLine": 67,
-                    "endColumn": 8,
-                    "endOffset": 3964
+                    "endColumn": 17,
+                    "endOffset": 3968
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -266,10 +274,10 @@
                 "to": {
                     "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 3969,
+                    "startOffset": 3973,
                     "endLine": 70,
-                    "endColumn": 13,
-                    "endOffset": 4046
+                    "endColumn": 8,
+                    "endOffset": 4038
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -279,7 +287,7 @@
                 "to": {
                     "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 4051,
+                    "startOffset": 4043,
                     "endLine": 73,
                     "endColumn": 13,
                     "endOffset": 4120
@@ -293,9 +301,9 @@
                     "startLine": 74,
                     "startColumn": 4,
                     "startOffset": 4125,
-                    "endLine": 78,
-                    "endColumn": 12,
-                    "endOffset": 4427
+                    "endLine": 76,
+                    "endColumn": 13,
+                    "endOffset": 4194
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -303,12 +311,12 @@
             },
             {
                 "to": {
-                    "startLine": 79,
+                    "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 4432,
-                    "endLine": 84,
+                    "startOffset": 4199,
+                    "endLine": 81,
                     "endColumn": 12,
-                    "endOffset": 4731
+                    "endOffset": 4501
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -316,12 +324,12 @@
             },
             {
                 "to": {
-                    "startLine": 85,
+                    "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 4736,
+                    "startOffset": 4506,
                     "endLine": 87,
                     "endColumn": 12,
-                    "endOffset": 4864
+                    "endOffset": 4805
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -331,10 +339,10 @@
                 "to": {
                     "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 4869,
+                    "startOffset": 4810,
                     "endLine": 90,
                     "endColumn": 12,
-                    "endOffset": 5045
+                    "endOffset": 4938
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -344,10 +352,10 @@
                 "to": {
                     "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 5050,
-                    "endLine": 94,
+                    "startOffset": 4943,
+                    "endLine": 95,
                     "endColumn": 12,
-                    "endOffset": 5222
+                    "endOffset": 5433
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -355,12 +363,12 @@
             },
             {
                 "to": {
-                    "startLine": 95,
+                    "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 5227,
-                    "endLine": 97,
+                    "startOffset": 5438,
+                    "endLine": 99,
                     "endColumn": 12,
-                    "endOffset": 5524
+                    "endOffset": 5610
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -368,12 +376,25 @@
             },
             {
                 "to": {
-                    "startLine": 98,
+                    "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 5529,
-                    "endLine": 100,
+                    "startOffset": 5615,
+                    "endLine": 102,
+                    "endColumn": 12,
+                    "endOffset": 5912
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5917,
+                    "endLine": 105,
                     "endColumn": 13,
-                    "endOffset": 5726
+                    "endOffset": 6114
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -381,12 +402,12 @@
             },
             {
                 "to": {
-                    "startLine": 101,
+                    "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 5731,
-                    "endLine": 108,
+                    "startOffset": 6119,
+                    "endLine": 113,
                     "endColumn": 12,
-                    "endOffset": 6313
+                    "endOffset": 6701
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -394,12 +415,12 @@
             },
             {
                 "to": {
-                    "startLine": 109,
+                    "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 6318,
-                    "endLine": 111,
+                    "startOffset": 6706,
+                    "endLine": 116,
                     "endColumn": 13,
-                    "endOffset": 6537
+                    "endOffset": 6925
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -407,12 +428,12 @@
             },
             {
                 "to": {
-                    "startLine": 112,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 6542,
-                    "endLine": 114,
+                    "startOffset": 6930,
+                    "endLine": 119,
                     "endColumn": 12,
-                    "endOffset": 6755
+                    "endOffset": 7143
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -420,12 +441,12 @@
             },
             {
                 "to": {
-                    "startLine": 115,
+                    "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 6760,
-                    "endLine": 117,
+                    "startOffset": 7148,
+                    "endLine": 122,
                     "endColumn": 17,
-                    "endOffset": 7097
+                    "endOffset": 7485
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -433,12 +454,12 @@
             },
             {
                 "to": {
-                    "startLine": 118,
+                    "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 7102,
-                    "endLine": 120,
+                    "startOffset": 7490,
+                    "endLine": 125,
                     "endColumn": 12,
-                    "endOffset": 7225
+                    "endOffset": 7613
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -446,12 +467,12 @@
             },
             {
                 "to": {
-                    "startLine": 121,
+                    "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 7230,
-                    "endLine": 123,
+                    "startOffset": 7618,
+                    "endLine": 128,
                     "endColumn": 13,
-                    "endOffset": 7301
+                    "endOffset": 7689
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -459,12 +480,12 @@
             },
             {
                 "to": {
-                    "startLine": 124,
+                    "startLine": 129,
                     "startColumn": 4,
-                    "startOffset": 7306,
-                    "endLine": 126,
+                    "startOffset": 7694,
+                    "endLine": 131,
                     "endColumn": 12,
-                    "endOffset": 7461
+                    "endOffset": 7849
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -472,12 +493,12 @@
             },
             {
                 "to": {
-                    "startLine": 127,
+                    "startLine": 132,
                     "startColumn": 4,
-                    "startOffset": 7466,
-                    "endLine": 129,
+                    "startOffset": 7854,
+                    "endLine": 134,
                     "endColumn": 12,
-                    "endOffset": 7612
+                    "endOffset": 8000
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -485,12 +506,12 @@
             },
             {
                 "to": {
-                    "startLine": 130,
+                    "startLine": 135,
                     "startColumn": 4,
-                    "startOffset": 7617,
-                    "endLine": 133,
+                    "startOffset": 8005,
+                    "endLine": 138,
                     "endColumn": 12,
-                    "endOffset": 7822
+                    "endOffset": 8210
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -498,12 +519,12 @@
             },
             {
                 "to": {
-                    "startLine": 134,
+                    "startLine": 139,
                     "startColumn": 4,
-                    "startOffset": 7827,
-                    "endLine": 136,
+                    "startOffset": 8215,
+                    "endLine": 141,
                     "endColumn": 12,
-                    "endOffset": 7962
+                    "endOffset": 8350
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -511,12 +532,12 @@
             },
             {
                 "to": {
-                    "startLine": 137,
+                    "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 7967,
-                    "endLine": 139,
+                    "startOffset": 8355,
+                    "endLine": 144,
                     "endColumn": 17,
-                    "endOffset": 8057
+                    "endOffset": 8441
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -524,12 +545,12 @@
             },
             {
                 "to": {
-                    "startLine": 140,
+                    "startLine": 145,
                     "startColumn": 4,
-                    "startOffset": 8062,
-                    "endLine": 143,
+                    "startOffset": 8446,
+                    "endLine": 148,
                     "endColumn": 12,
-                    "endOffset": 8261
+                    "endOffset": 8645
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -537,12 +558,12 @@
             },
             {
                 "to": {
-                    "startLine": 144,
+                    "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 8266,
-                    "endLine": 146,
+                    "startOffset": 8650,
+                    "endLine": 151,
                     "endColumn": 12,
-                    "endOffset": 8314
+                    "endOffset": 8698
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -550,12 +571,12 @@
             },
             {
                 "to": {
-                    "startLine": 147,
+                    "startLine": 152,
                     "startColumn": 4,
-                    "startOffset": 8319,
-                    "endLine": 149,
+                    "startOffset": 8703,
+                    "endLine": 154,
                     "endColumn": 12,
-                    "endOffset": 8436
+                    "endOffset": 8820
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
@@ -563,189 +584,115 @@
             },
             {
                 "to": {
-                    "startLine": 150,
+                    "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 8441,
-                    "endLine": 152,
+                    "startOffset": 8825,
+                    "endLine": 157,
                     "endColumn": 17,
-                    "endOffset": 8538
+                    "endOffset": 8907
                 },
                 "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 9158,
+                        "endLine": 169,
+                        "endColumn": 17,
+                        "endOffset": 9240
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 153,
+                    "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 8543,
-                    "endLine": 156,
-                    "endColumn": 12,
-                    "endOffset": 8745
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 157,
-                    "startColumn": 4,
-                    "startOffset": 8750,
+                    "startOffset": 8912,
                     "endLine": 160,
-                    "endColumn": 12,
-                    "endOffset": 8965
+                    "endColumn": 17,
+                    "endOffset": 8998
                 },
                 "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 8976,
+                        "endLine": 163,
+                        "endColumn": 17,
+                        "endOffset": 9062
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 8970,
-                    "endColumn": 43,
-                    "endOffset": 9009
+                    "startOffset": 9003,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 9205
                 },
                 "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 3,
-                        "startOffset": 537,
-                        "endColumn": 42,
-                        "endOffset": 576
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 162,
-                    "startColumn": 4,
-                    "startOffset": 9014,
-                    "endColumn": 45,
-                    "endOffset": 9055
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/colors.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 163,
-                    "startColumn": 4,
-                    "startOffset": 9060,
-                    "endColumn": 44,
-                    "endOffset": 9100
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/colors.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 164,
-                    "startColumn": 4,
-                    "startOffset": 9105,
-                    "endColumn": 60,
-                    "endOffset": 9161
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 9166,
-                    "endColumn": 82,
-                    "endOffset": 9244
+                    "startOffset": 9210,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 9425
                 },
                 "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 166,
-                    "startColumn": 4,
-                    "startOffset": 9249,
-                    "endColumn": 72,
-                    "endOffset": 9317
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 167,
-                    "startColumn": 4,
-                    "startOffset": 9322,
-                    "endColumn": 82,
-                    "endOffset": 9400
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 168,
-                    "startColumn": 4,
-                    "startOffset": 9405,
-                    "endColumn": 82,
-                    "endOffset": 9483
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/arrays.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 9488,
-                    "endColumn": 72,
-                    "endOffset": 9556
+                    "startOffset": 9430,
+                    "endColumn": 43,
+                    "endOffset": 9469
                 },
                 "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/colors.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 9561,
-                    "endColumn": 72,
-                    "endOffset": 9629
+                    "startOffset": 9474,
+                    "endColumn": 45,
+                    "endOffset": 9515
                 },
                 "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/colors.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 9634,
-                    "endColumn": 73,
-                    "endOffset": 9703
+                    "startOffset": 9520,
+                    "endColumn": 44,
+                    "endOffset": 9560
                 },
                 "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/colors.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 9708,
-                    "endColumn": 72,
-                    "endOffset": 9776
+                    "startOffset": 9565,
+                    "endColumn": 60,
+                    "endOffset": 9621
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
@@ -755,9 +702,21 @@
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 9781,
-                    "endColumn": 83,
-                    "endOffset": 9860
+                    "startOffset": 9626,
+                    "endColumn": 82,
+                    "endOffset": 9704
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 9709,
+                    "endColumn": 72,
+                    "endOffset": 9777
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
@@ -767,9 +726,93 @@
                 "to": {
                     "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 10182,
+                    "startOffset": 9782,
+                    "endColumn": 82,
+                    "endOffset": 9860
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 9865,
+                    "endColumn": 82,
+                    "endOffset": 9943
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 9948,
+                    "endColumn": 72,
+                    "endOffset": 10016
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 10021,
+                    "endColumn": 72,
+                    "endOffset": 10089
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 10094,
+                    "endColumn": 73,
+                    "endOffset": 10163
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 10168,
+                    "endColumn": 72,
+                    "endOffset": 10236
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 10241,
+                    "endColumn": 83,
+                    "endOffset": 10320
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 10642,
                     "endColumn": 66,
-                    "endOffset": 10244
+                    "endOffset": 10704
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/version.xml"
@@ -777,96 +820,23 @@
             },
             {
                 "to": {
-                    "startLine": 176,
-                    "startColumn": 4,
-                    "startOffset": 10249,
-                    "endColumn": 51,
-                    "endOffset": 10296
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 177,
-                    "startColumn": 4,
-                    "startOffset": 10301,
-                    "endColumn": 35,
-                    "endOffset": 10332
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 178,
-                    "startColumn": 4,
-                    "startOffset": 10337,
-                    "endColumn": 47,
-                    "endOffset": 10380
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 179,
-                    "startColumn": 4,
-                    "startOffset": 10385,
-                    "endLine": 181,
-                    "endColumn": 9,
-                    "endOffset": 10447
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 182,
-                    "startColumn": 4,
-                    "startOffset": 10452,
-                    "endColumn": 45,
-                    "endOffset": 10493
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 183,
-                    "startColumn": 4,
-                    "startOffset": 10498,
-                    "endColumn": 91,
-                    "endOffset": 10585
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/auth_strings.xml"
-                }
-            },
-            {
-                "to": {
                     "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 10590,
-                    "endColumn": 87,
-                    "endOffset": 10673
+                    "startOffset": 10709,
+                    "endColumn": 51,
+                    "endOffset": 10756
                 },
                 "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/auth_strings.xml"
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 10678,
-                    "endColumn": 51,
-                    "endOffset": 10725
+                    "startOffset": 10761,
+                    "endColumn": 35,
+                    "endOffset": 10792
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -876,10 +846,70 @@
                 "to": {
                     "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 10730,
-                    "endLine": 193,
-                    "endColumn": 63,
-                    "endOffset": 11385
+                    "startOffset": 10797,
+                    "endColumn": 47,
+                    "endOffset": 10840
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 10845,
+                    "endLine": 189,
+                    "endColumn": 9,
+                    "endOffset": 10907
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 10912,
+                    "endColumn": 45,
+                    "endOffset": 10953
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 10958,
+                    "endColumn": 91,
+                    "endOffset": 11045
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/auth_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 11050,
+                    "endColumn": 87,
+                    "endOffset": 11133
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/auth_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 11138,
+                    "endColumn": 51,
+                    "endOffset": 11185
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -889,105 +919,22 @@
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 11390,
-                    "endColumn": 156,
-                    "endOffset": 11542
+                    "startOffset": 11190,
+                    "endLine": 201,
+                    "endColumn": 63,
+                    "endOffset": 11845
                 },
                 "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 195,
-                    "startColumn": 4,
-                    "startOffset": 11547,
-                    "endColumn": 144,
-                    "endOffset": 11687
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 196,
-                    "startColumn": 4,
-                    "startOffset": 11692,
-                    "endColumn": 108,
-                    "endOffset": 11796
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 197,
-                    "startColumn": 4,
-                    "startOffset": 11801,
-                    "endColumn": 231,
-                    "endOffset": 12028
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 198,
-                    "startColumn": 4,
-                    "startOffset": 12033,
-                    "endColumn": 125,
-                    "endOffset": 12154
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 199,
-                    "startColumn": 4,
-                    "startOffset": 12159,
-                    "endColumn": 180,
-                    "endOffset": 12335
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 200,
-                    "startColumn": 4,
-                    "startOffset": 12340,
-                    "endColumn": 124,
-                    "endOffset": 12460
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 201,
-                    "startColumn": 4,
-                    "startOffset": 12465,
-                    "endColumn": 138,
-                    "endOffset": 12599
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 12604,
-                    "endColumn": 123,
-                    "endOffset": 12723
+                    "startOffset": 11850,
+                    "endColumn": 156,
+                    "endOffset": 12002
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -997,9 +944,9 @@
                 "to": {
                     "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 12728,
-                    "endColumn": 212,
-                    "endOffset": 12936
+                    "startOffset": 12007,
+                    "endColumn": 144,
+                    "endOffset": 12147
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1009,9 +956,9 @@
                 "to": {
                     "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 12941,
-                    "endColumn": 214,
-                    "endOffset": 13151
+                    "startOffset": 12152,
+                    "endColumn": 108,
+                    "endOffset": 12256
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1021,9 +968,9 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 13156,
-                    "endColumn": 122,
-                    "endOffset": 13274
+                    "startOffset": 12261,
+                    "endColumn": 231,
+                    "endOffset": 12488
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1033,9 +980,9 @@
                 "to": {
                     "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 13279,
-                    "endColumn": 164,
-                    "endOffset": 13439
+                    "startOffset": 12493,
+                    "endColumn": 125,
+                    "endOffset": 12614
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1045,9 +992,9 @@
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 13444,
-                    "endColumn": 93,
-                    "endOffset": 13533
+                    "startOffset": 12619,
+                    "endColumn": 180,
+                    "endOffset": 12795
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1057,9 +1004,9 @@
                 "to": {
                     "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 13538,
-                    "endColumn": 136,
-                    "endOffset": 13670
+                    "startOffset": 12800,
+                    "endColumn": 124,
+                    "endOffset": 12920
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1069,9 +1016,9 @@
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 13675,
-                    "endColumn": 140,
-                    "endOffset": 13811
+                    "startOffset": 12925,
+                    "endColumn": 138,
+                    "endOffset": 13059
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1081,9 +1028,9 @@
                 "to": {
                     "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 13816,
-                    "endColumn": 89,
-                    "endOffset": 13901
+                    "startOffset": 13064,
+                    "endColumn": 123,
+                    "endOffset": 13183
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1093,9 +1040,9 @@
                 "to": {
                     "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 13906,
-                    "endColumn": 147,
-                    "endOffset": 14049
+                    "startOffset": 13188,
+                    "endColumn": 212,
+                    "endOffset": 13396
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1105,9 +1052,9 @@
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 14054,
-                    "endColumn": 102,
-                    "endOffset": 14152
+                    "startOffset": 13401,
+                    "endColumn": 214,
+                    "endOffset": 13611
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1117,9 +1064,9 @@
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 14157,
-                    "endColumn": 150,
-                    "endOffset": 14303
+                    "startOffset": 13616,
+                    "endColumn": 122,
+                    "endOffset": 13734
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1129,9 +1076,9 @@
                 "to": {
                     "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 14308,
-                    "endColumn": 91,
-                    "endOffset": 14395
+                    "startOffset": 13739,
+                    "endColumn": 164,
+                    "endOffset": 13899
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1141,9 +1088,9 @@
                 "to": {
                     "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 14400,
-                    "endColumn": 110,
-                    "endOffset": 14506
+                    "startOffset": 13904,
+                    "endColumn": 93,
+                    "endOffset": 13993
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1153,9 +1100,9 @@
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 14511,
-                    "endColumn": 218,
-                    "endOffset": 14725
+                    "startOffset": 13998,
+                    "endColumn": 136,
+                    "endOffset": 14130
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1165,9 +1112,9 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 14730,
-                    "endColumn": 94,
-                    "endOffset": 14820
+                    "startOffset": 14135,
+                    "endColumn": 140,
+                    "endOffset": 14271
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1177,9 +1124,9 @@
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 14825,
-                    "endColumn": 104,
-                    "endOffset": 14925
+                    "startOffset": 14276,
+                    "endColumn": 89,
+                    "endOffset": 14361
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1189,9 +1136,9 @@
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 14930,
-                    "endColumn": 180,
-                    "endOffset": 15106
+                    "startOffset": 14366,
+                    "endColumn": 147,
+                    "endOffset": 14509
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1201,9 +1148,9 @@
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 15111,
-                    "endColumn": 124,
-                    "endOffset": 15231
+                    "startOffset": 14514,
+                    "endColumn": 102,
+                    "endOffset": 14612
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1213,9 +1160,9 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 15236,
-                    "endColumn": 174,
-                    "endOffset": 15406
+                    "startOffset": 14617,
+                    "endColumn": 150,
+                    "endOffset": 14763
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1225,9 +1172,9 @@
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 15411,
-                    "endColumn": 104,
-                    "endOffset": 15511
+                    "startOffset": 14768,
+                    "endColumn": 91,
+                    "endOffset": 14855
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1237,9 +1184,9 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 15516,
-                    "endColumn": 62,
-                    "endOffset": 15574
+                    "startOffset": 14860,
+                    "endColumn": 110,
+                    "endOffset": 14966
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
@@ -1249,10 +1196,106 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 15579,
-                    "endLine": 235,
+                    "startOffset": 14971,
+                    "endColumn": 218,
+                    "endOffset": 15185
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 15190,
+                    "endColumn": 94,
+                    "endOffset": 15280
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 15285,
+                    "endColumn": 104,
+                    "endOffset": 15385
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 15390,
+                    "endColumn": 180,
+                    "endOffset": 15566
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 15571,
+                    "endColumn": 124,
+                    "endOffset": 15691
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 15696,
+                    "endColumn": 174,
+                    "endOffset": 15866
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 15871,
+                    "endColumn": 104,
+                    "endOffset": 15971
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 15976,
+                    "endColumn": 62,
+                    "endOffset": 16034
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 16039,
+                    "endLine": 243,
                     "endColumn": 12,
-                    "endOffset": 16412
+                    "endOffset": 16872
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1260,11 +1303,11 @@
             },
             {
                 "to": {
-                    "startLine": 236,
+                    "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 16417,
+                    "startOffset": 16877,
                     "endColumn": 43,
-                    "endOffset": 16456
+                    "endOffset": 16916
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1272,11 +1315,11 @@
             },
             {
                 "to": {
-                    "startLine": 237,
+                    "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 16461,
+                    "startOffset": 16921,
                     "endColumn": 60,
-                    "endOffset": 16517
+                    "endOffset": 16977
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1284,108 +1327,12 @@
             },
             {
                 "to": {
-                    "startLine": 238,
+                    "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 16522,
-                    "endLine": 248,
+                    "startOffset": 16982,
+                    "endLine": 256,
                     "endColumn": 9,
-                    "endOffset": 17120
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 249,
-                    "startColumn": 4,
-                    "startOffset": 17125,
-                    "endColumn": 84,
-                    "endOffset": 17205
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 250,
-                    "startColumn": 4,
-                    "startOffset": 17210,
-                    "endColumn": 43,
-                    "endOffset": 17249
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 251,
-                    "startColumn": 4,
-                    "startOffset": 17254,
-                    "endColumn": 44,
-                    "endOffset": 17294
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 252,
-                    "startColumn": 4,
-                    "startOffset": 17299,
-                    "endColumn": 45,
-                    "endOffset": 17340
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 253,
-                    "startColumn": 4,
-                    "startOffset": 17345,
-                    "endColumn": 43,
-                    "endOffset": 17384
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 254,
-                    "startColumn": 4,
-                    "startOffset": 17389,
-                    "endColumn": 64,
-                    "endOffset": 17449
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 255,
-                    "startColumn": 4,
-                    "startOffset": 17454,
-                    "endColumn": 45,
-                    "endOffset": 17495
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 256,
-                    "startColumn": 4,
-                    "startOffset": 17500,
-                    "endColumn": 50,
-                    "endOffset": 17546
+                    "endOffset": 17580
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1395,9 +1342,9 @@
                 "to": {
                     "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 17551,
-                    "endColumn": 69,
-                    "endOffset": 17616
+                    "startOffset": 17585,
+                    "endColumn": 84,
+                    "endOffset": 17665
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1407,9 +1354,9 @@
                 "to": {
                     "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 17621,
-                    "endColumn": 47,
-                    "endOffset": 17664
+                    "startOffset": 17670,
+                    "endColumn": 43,
+                    "endOffset": 17709
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1419,9 +1366,9 @@
                 "to": {
                     "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 17669,
-                    "endColumn": 47,
-                    "endOffset": 17712
+                    "startOffset": 17714,
+                    "endColumn": 44,
+                    "endOffset": 17754
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1431,9 +1378,9 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 17717,
-                    "endColumn": 63,
-                    "endOffset": 17776
+                    "startOffset": 17759,
+                    "endColumn": 45,
+                    "endOffset": 17800
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1443,9 +1390,9 @@
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 17781,
-                    "endColumn": 45,
-                    "endOffset": 17822
+                    "startOffset": 17805,
+                    "endColumn": 43,
+                    "endOffset": 17844
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1455,9 +1402,9 @@
                 "to": {
                     "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 17827,
-                    "endColumn": 53,
-                    "endOffset": 17876
+                    "startOffset": 17849,
+                    "endColumn": 64,
+                    "endOffset": 17909
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1467,9 +1414,9 @@
                 "to": {
                     "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 17881,
-                    "endColumn": 88,
-                    "endOffset": 17965
+                    "startOffset": 17914,
+                    "endColumn": 45,
+                    "endOffset": 17955
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1479,9 +1426,9 @@
                 "to": {
                     "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 17970,
-                    "endColumn": 43,
-                    "endOffset": 18009
+                    "startOffset": 17960,
+                    "endColumn": 50,
+                    "endOffset": 18006
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1491,9 +1438,9 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 18014,
-                    "endColumn": 49,
-                    "endOffset": 18059
+                    "startOffset": 18011,
+                    "endColumn": 69,
+                    "endOffset": 18076
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1503,34 +1450,9 @@
                 "to": {
                     "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 18064,
-                    "endLine": 285,
-                    "endColumn": 13,
-                    "endOffset": 19188
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 286,
-                    "startColumn": 4,
-                    "startOffset": 19193,
-                    "endColumn": 54,
-                    "endOffset": 19243
-                },
-                "from": {
-                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 287,
-                    "startColumn": 4,
-                    "startOffset": 19248,
+                    "startOffset": 18081,
                     "endColumn": 47,
-                    "endOffset": 19291
+                    "endOffset": 18124
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1538,11 +1460,11 @@
             },
             {
                 "to": {
-                    "startLine": 288,
+                    "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 19296,
-                    "endColumn": 35,
-                    "endOffset": 19327
+                    "startOffset": 18129,
+                    "endColumn": 47,
+                    "endOffset": 18172
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1550,11 +1472,11 @@
             },
             {
                 "to": {
-                    "startLine": 289,
+                    "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 19332,
-                    "endColumn": 46,
-                    "endOffset": 19374
+                    "startOffset": 18177,
+                    "endColumn": 63,
+                    "endOffset": 18236
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1562,11 +1484,11 @@
             },
             {
                 "to": {
-                    "startLine": 290,
+                    "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 19379,
-                    "endColumn": 59,
-                    "endOffset": 19434
+                    "startOffset": 18241,
+                    "endColumn": 45,
+                    "endOffset": 18282
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1574,11 +1496,11 @@
             },
             {
                 "to": {
-                    "startLine": 291,
+                    "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 19439,
-                    "endColumn": 48,
-                    "endOffset": 19483
+                    "startOffset": 18287,
+                    "endColumn": 53,
+                    "endOffset": 18336
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1586,12 +1508,120 @@
             },
             {
                 "to": {
-                    "startLine": 292,
+                    "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 19488,
-                    "endLine": 299,
+                    "startOffset": 18341,
+                    "endColumn": 88,
+                    "endOffset": 18425
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 18430,
+                    "endColumn": 43,
+                    "endOffset": 18469
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 18474,
+                    "endColumn": 49,
+                    "endOffset": 18519
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 18524,
+                    "endLine": 293,
                     "endColumn": 13,
-                    "endOffset": 19868
+                    "endOffset": 19648
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 19653,
+                    "endColumn": 54,
+                    "endOffset": 19703
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 19708,
+                    "endColumn": 47,
+                    "endOffset": 19751
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 19756,
+                    "endColumn": 35,
+                    "endOffset": 19787
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 19792,
+                    "endColumn": 46,
+                    "endOffset": 19834
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 19839,
+                    "endColumn": 59,
+                    "endOffset": 19894
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 19899,
+                    "endColumn": 48,
+                    "endOffset": 19943
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
@@ -1601,10 +1631,23 @@
                 "to": {
                     "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 19873,
-                    "endLine": 348,
+                    "startOffset": 19948,
+                    "endLine": 307,
+                    "endColumn": 13,
+                    "endOffset": 20328
+                },
+                "from": {
+                    "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 20333,
+                    "endLine": 356,
                     "endColumn": 9,
-                    "endOffset": 20939
+                    "endOffset": 21399
                 },
                 "from": {
                     "file": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/values/strings.xml"

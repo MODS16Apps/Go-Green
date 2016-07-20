@@ -8,12 +8,12 @@
         "source": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/src/main/res/drawable-hdpi/box.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_page.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/info_page.png"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_page.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/info_page.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trip.jpg",
@@ -36,12 +36,12 @@
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/recycling.png"
     },
     {
-        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang1.png",
-        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang1.png"
-    },
-    {
         "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cliabout.png",
         "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/cliabout.png"
+    },
+    {
+        "merged": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hang1.png",
+        "source": "/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/drawable-hdpi/hang1.png"
     },
     {
         "merged": "/Users/sergioramirez/Documents/GoGreen-App/Project Assignment 3/Activity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottle.png",

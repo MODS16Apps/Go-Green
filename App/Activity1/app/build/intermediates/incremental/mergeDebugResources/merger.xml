@@ -44,7 +44,7 @@
         <item>"Hangman"</item>
         <item>"Trivia Quiz"</item>
     </array><array name="usa">
-         <item>"<b>"The United States and Canada</b>"</item>
+         <item>"<b>"The United States</b>"</item>
          </array><array name="glass_bottle">
          <item>"If a Neanderthal had dropped a glass bottle in the park in front of MODS it would still be there today! This is because glass bottles take 1 million years to decay!"</item>
      </array><array name="brazil"> 
@@ -52,14 +52,16 @@
      </array><array name="cardboard">
         <item>"When recycling cardboard be sure to flatten the boxes and remove extra tape."</item>
     </array><array name="south_africa">
-         <item>"<b>"South Africa</b>"</item>
+        <item><b>South Africa</b></item>
          </array><array name="oven">
         <item>"Keep door closed while cooking, temperature can drop as many as 25"
            " degrees each time you open the door"</item>
     </array><array name="paper">
         <item>"<b>DO</b> recycle glossy, white, colored papers, magazines, junk mail, and file folders.\n<b>DON\'T</b> recycle plastic coated papers, food/wrappers. And did you know you don’t need to remove the staples or tape on a paper before recycling?"</item>
     </array><array name="map_explain">
-        <item>"Click on each dot across the map to learn more about the way this country or region is combatting climate change!"</item>
+        <item><b><i>Click on each dot across the map to learn more about how these countries or regions are battling climate change!</i></b></item>
+        <item>\n</item>
+        <item>---------------------------------------------------------------------------------------------\n| Click<b> HERE</b> if you do not want to see this message again. |\n---------------------------------------------------------------------------------------------</item>
     </array><array name="cans"> 
         <item>"Aluminum cans can take anywhere between 200 to 500 years to decompose in a landfill. Did you know that making new aluminum cans from recycled cans takes 95% less energy than creating the same amount with aluminum oxides "</item> 
     </array><array name="banana"> 
@@ -86,7 +88,9 @@
         <item>"By turning of the faucet while brushing teeth, you can save approx. 100 gallons each month"</item>
     </array><array name="japan">
      <item>"<b>"Japan"</b>"</item>
-     </array><array name="plastic_bag">
+     </array><array name="un">
+        <item><b>The United Nations</b></item>
+         </array><array name="plastic_bag">
          <item>"Plastic bags take between 10 and 20 years to decompose. Make sure you bring your own bags to the grocery store or return used bags to the store for reuse!"</item>
      </array><array name="india"> 
     <item>"<b>"India"</b>"</item> 
@@ -108,7 +112,9 @@
             "groundwater and cause serious pollution and health risks"</item>
     </array><array name="china">
      <item>"<b>"China"</b>"</item> 
-</array><array name="paper_bag"> 
+</array><array name="canada">
+        <item><b>Canada</b></item>
+    </array><array name="paper_bag"> 
         <item>"Paper bags only take 1 month to decompose! Consider taking your lunch in a paper bag made with recyled paper instead of a plastic bag!"</item>
      </array><array name="line">
         <item>"Save energy by hanging your clothes to dry instead of using a dryer."
@@ -238,4 +244,4 @@ In your own home, it\'s good to do your part in making sure you reduce, reuse, a
 Harry the Heap is made completely of reused items!
         With bowls for ears and plastic bottles for arms, Harry is here to help you learn
         how to reuse and recycle items around your house.
-    </string></file><file name="settings" path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/xml/settings.xml" qualifiers="" type="xml"/></source><source path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/generated/res/rs/debug"/><source path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable></configuration></mergedItems></merger>
+    </string></file><file name="settings" path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/xml/settings.xml" qualifiers="" type="xml"/><file name="climate_change_map" path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/main/res/layout-v14/climate_change_map.xml" qualifiers="v14" type="layout"/></source><source path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/generated/res/rs/debug"/><source path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/sergioramirez/Documents/Go-Green/App/Activity1/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable></configuration></mergedItems></merger>

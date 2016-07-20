@@ -138,6 +138,9 @@
      <array name="brazil"> 
     <item>"<b>"Brazil"</b>"</item>
      </array>
+    <array name="canada">
+        <item><b>Canada</b></item>
+    </array>
      <array name="china">
      <item>"<b>"China"</b>"</item> 
 </array> 
@@ -157,13 +160,18 @@
      <item>"<b>"Russia"</b>"</item>
      </array> 
     <array name="usa">
-         <item>"<b>"The United States and Canada</b>"</item>
+         <item>"<b>"The United States</b>"</item>
          </array>
     <array name="south_africa">
-         <item>"<b>"South Africa</b>"</item>
+        <item><b>South Africa</b></item>
+         </array>
+    <array name="un">
+        <item><b>The United Nations</b></item>
          </array>
     <array name="map_explain">
-        <item>"Click on each dot across the map to learn more about the way this country or region is combatting climate change!"</item>
+        <item><b><i>Click on each dot across the map to learn more about how these countries or regions are battling climate change!</i></b></item>
+        <item>\n</item>
+        <item>---------------------------------------------------------------------------------------------\n| Click<b> HERE</b> if you do not want to see this message again. |\n---------------------------------------------------------------------------------------------</item>
     </array>
     <array name="test">
         <item></item>

@@ -18,6 +18,9 @@
         <item>
             "<b>DO</b> recycle aluminum cans, glass bottles (any color!), plastic containers numbered 1-7 , and steel cans and remember to clean your containers of food residue before recycling!\n<b>DON\'T</b> recycle plastic bags, food wrappers, or Styrofoam. While you can’t recycle plastic bags with your other recyclables, you can return them to most grocery stores or, just use reusable bags when shopping."</item>
     </array>
+    <array name="canada">
+        <item><b>Canada</b></item>
+    </array>
     <array name="cans"> 
         <item>"Aluminum cans can take anywhere between 200 to 500 years to decompose in a landfill. Did you know that making new aluminum cans from recycled cans takes 95% less energy than creating the same amount with aluminum oxides "</item> 
     </array>
@@ -87,7 +90,9 @@
         <item>"Make sure you only wash your clothes when the machine is fully loaded"</item>
     </array>
     <array name="map_explain">
-        <item>"Click on each dot across the map to learn more about the way this country or region is combatting climate change!"</item>
+        <item><b><i>Click on each dot across the map to learn more about how these countries or regions are battling climate change!</i></b></item>
+        <item>\n</item>
+        <item>---------------------------------------------------------------------------------------------\n| Click<b> HERE</b> if you do not want to see this message again. |\n---------------------------------------------------------------------------------------------</item>
     </array>
     <array name="oven">
         <item>"Keep door closed while cooking, temperature can drop as many as 25"
@@ -136,7 +141,7 @@
         <item>"Grew out of your old clothes? Deliver them to a local charity or thrift store."</item>
     </array>
     <array name="south_africa">
-         <item>"<b>"South Africa</b>"</item>
+        <item><b>South Africa</b></item>
          </array>
     <array name="temp">
         <item>"In the winter, put on more layers instead of turning up the heat!"
@@ -148,8 +153,11 @@
     <array name="toilet">
         <item>"The average persons use 2.8 miles of toilet paper in a year"</item>
     </array>
+    <array name="un">
+        <item><b>The United Nations</b></item>
+         </array>
     <array name="usa">
-         <item>"<b>"The United States and Canada</b>"</item>
+         <item>"<b>"The United States</b>"</item>
          </array>
     <array name="window">
         <item>"Replace old curtains with honeycomb shades. They have folds of fabric"
