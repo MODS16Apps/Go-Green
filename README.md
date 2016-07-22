@@ -1,5 +1,6 @@
 # Go-Green
 Go Green App for MODS
+
  -Thus far we have been able to implement a world map and a recycling activity screen
 both which make the app far more interactive and informative than the previous
 rendition. We have also made the application more developer friendly by adding the
